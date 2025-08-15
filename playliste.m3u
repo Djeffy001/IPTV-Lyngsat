@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="NASA" tvg-name="NASA TV" group-title="Culture/Science",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-Public/master.m3u8
+
+#EXTINF:-1 tvg-id="France24" tvg-name="France 24" group-title="Infos",France 24 (Français)
+https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+
+#EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" group-title="Infos",Euronews (Français)
+https://euronews-euronews-world-1-fr.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" group-title="Culture/International",Arirang TV
+https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DW" tvg-name="DW News" group-title="Infos",DW News (Anglais)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
