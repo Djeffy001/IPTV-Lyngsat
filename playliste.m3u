@@ -3,8 +3,8 @@
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Belgium",La Une (1080p)
 http://41.205.93.154/LA-UNE/mpegts
 
-#EXTINF:-1 tvg-id="France24" tvg-name="France 24" group-title="Infos",France 24 (Français)
-https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="France",FR: AB3 HD
+http://1tv41.icu:8080/ggct0Q/809783/160302
 
 #EXTINF:-1 tvg-id="Euronews" tvg-name="Euronews" group-title="Infos",Euronews (Français)
 https://euronews-euronews-world-1-fr.samsung.wurl.com/manifest/playlist.m3u8
@@ -14,4 +14,5 @@ https://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pl
 
 #EXTINF:-1 tvg-id="DW" tvg-name="DW News" group-title="Infos",DW News (Anglais)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
 
