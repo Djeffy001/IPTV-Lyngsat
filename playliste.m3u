@@ -127,9 +127,6 @@ http://1tv41.icu:8080/ggct0Q/809783/99138
 #EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Channel 5
 http://1tv41.icu:8080/ggct0Q/809783/53653
 
-#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="UK UNITED KINGDOM",UK EuroSport 1 UK (P)
-http://1tv41.icu:8080/ggct0Q/809783/53713
-
 #EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
 http://1tv41.icu:8080/ggct0Q/809783/79108
 
@@ -159,6 +156,7 @@ http://1tv41.icu:8080/ggct0Q/809783/57288
 
 #EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
 http://1tv41.icu:8080/ggct0Q/809783/168466
+
 
 
 
