@@ -48,4 +48,118 @@ https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 #EXTINF:-1 tvg-id="El33SX3.es" tvg-logo="https://i.imgur.com/a3uR3vu.png" group-title="Spain",El 33 SX3 (1080p) [Geo-blocked]
 https://directes-tv-cat.3catdirectes.cat/live-origin/c33-super3-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="France",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Luxembourg",RTL-TVI (1080p) [Not 24/7]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" group-title="Belgium",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Belgium",RT France (1080p) [Geo-blocked]
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+#EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://i.imgur.com/GHFuvmZ.png" group-title="Belgium",Qu4tre (1080p)
+https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro (1080p)
+http://185.189.225.150:85/CuatroHD/index.m3u8
+
+#EXTINF:-1 tvg-id="ETB1.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ETB1_2022_logo.svg/512px-ETB1_2022_logo.svg.png" group-title="Spain",ETB 1 (720p)
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="Spain",ETB 2 (720p)
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="Germany",Das Erste (1080p)
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de@HD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Germany",RTL HD
+https://strm.hdtvizlecanli.com/live/rtl.m3u8
+
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Germany",RTL Super
+https://trn09.bozztv.com/gin-superrtl/index.m3u8
+
+#EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Germany",Polsat News Polityka (1080p) [Geo-blocked]
+https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
+
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-logo="https://i.imgur.com/zZOk3nh.png" group-title="Germany" http-referrer="http://85.187.13.40:18000/",ProSieben (576p)
+#EXTVLCOPT:http-referrer=http://85.187.13.40:18000/
+http://85.187.13.40:18000/ProSieben
+
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-logo="https://i.imgur.com/IxD8V5X.png" group-title="Japan",Nippon TV (540p) [Not 24/7]
+https://ntv4.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Poland",TVP1 (1080p)
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK: Channel 4
+http://1tv41.icu:8080/ggct0Q/809783/99138
+
+#EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
+http://1tv41.icu:8080/ggct0Q/809783/79108
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
+http://1tv41.icu:8080/ggct0Q/809783/164792
+
+#EXTINF:-1 tvg-id="" tvg-name="ICI Premiere Montreal Quebec" tvg-logo="https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png" group-title="Radio Stations",ICI Premiere Montreal Quebec
+http://1tv41.icu:8080/ggct0Q/809783/16251
+
+#EXTINF:-1 tvg-id="tva.ca" tvg-name="CA (FR) TVA Montreal FHD (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Montreal FHD (B)
+http://1tv41.icu:8080/ggct0Q/809783/57497
+
+#EXTINF:-1 tvg-id="" tvg-name="CA (FR) ICI RDI (D)" tvg-logo="" group-title="Canada French",CA (FR) ICI RDI (D)
+http://1tv41.icu:8080/ggct0Q/809783/164369
+
+#EXTINF:-1 tvg-id="lecanalnouvelles.ca" tvg-name="CA (FR) LCN (E)" tvg-logo="https://www.fibreop.ca/binaries/small/content/gallery/common_en/tv/channel-logos/lcn_sept2020.png" group-title="Canada French",CA (FR) LCN (E)
+http://1tv41.icu:8080/ggct0Q/809783/57968
+
+#EXTINF:-1 tvg-id="tfo.ca" tvg-name="CA (FR) TFO HD (R)" tvg-logo="https://powerofbabel.com/wp-content/uploads/2021/01/TFO-logo.png" group-title="Canada French",CA (FR) TFO HD (R)
+http://1tv41.icu:8080/ggct0Q/809783/57495
+
+#EXTINF:-1 tvg-id="icitelevisionmontreal.ca" tvg-name="CA (FR) ICI Tele Quebec HD (D) " tvg-logo="https://matawinie.cooptel.ca/wp-content/uploads/2016/06/Ici-T%C3%A9l%C3%A9.png" group-title="Canada French",CA (FR) ICI Tele Quebec HD (D) 
+http://1tv41.icu:8080/ggct0Q/809783/57493
+
+#EXTINF:-1 tvg-id="canalvie.ca" tvg-name="CA (FR) Canal Vie HD" tvg-logo="" group-title="Canada French",CA (FR) Canal Vie HD
+http://1tv41.icu:8080/ggct0Q/809783/116947
+
+#EXTINF:-1 tvg-id="tv5.ca" tvg-name="CA (FR) TV5 " tvg-logo="" group-title="Canada French",CA (FR) TV5 
+http://1tv41.icu:8080/ggct0Q/809783/57288
+
+#EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
+http://1tv41.icu:8080/ggct0Q/809783/168466
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
