@@ -127,9 +127,6 @@ http://1tv41.icu:8080/ggct0Q/809783/79108
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
 http://1tv41.icu:8080/ggct0Q/809783/164792
 
-#EXTINF:-1 tvg-id="" tvg-name="ICI Premiere Montreal Quebec" tvg-logo="https://www.nicepng.com/png/detail/952-9523744_radio-emoji-icon-retro-radio-png-icon.png" group-title="Radio Stations",ICI Premiere Montreal Quebec
-http://1tv41.icu:8080/ggct0Q/809783/16251
-
 #EXTINF:-1 tvg-id="tva.ca" tvg-name="CA (FR) TVA Montreal FHD (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Tva_quebec_logo_detail.png" group-title="Canada French",CA (FR) TVA Montreal FHD (B)
 http://1tv41.icu:8080/ggct0Q/809783/57497
 
@@ -153,6 +150,7 @@ http://1tv41.icu:8080/ggct0Q/809783/57288
 
 #EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
 http://1tv41.icu:8080/ggct0Q/809783/168466
+
 
 
 
