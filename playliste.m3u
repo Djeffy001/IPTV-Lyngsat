@@ -21,3 +21,5 @@ https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 #EXTINF:-1 tvg-id="Canale5.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png" group-title="Italy",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png" group-title="Italy",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
