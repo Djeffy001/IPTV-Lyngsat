@@ -100,8 +100,26 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Poland",TVP1 (1080p)
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
+#EXTINF:-1 tvg-id="bbcnews.uk" tvg-name="UK: BBC NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC NEWS
+http://1tv41.icu:8080/ggct0Q/809783/53757
+
+#EXTINF:-1 tvg-id="bbc.one.gb" tvg-name="UK-BBC One" tvg-logo="" group-title="UK UNITED KINGDOM",UK-BBC One
+http://1tv41.icu:8080/ggct0Q/809783/53649
+
+#EXTINF:-1 tvg-id="bbc2.uk" tvg-name="UK: BBC TWO HD" tvg-logo="" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+http://1tv41.icu:8080/ggct0Q/809783/53650
+
+#EXTINF:-1 tvg-id="itv1anglia.uk" tvg-name="UK-ITV" tvg-logo="" group-title="UK UNITED KINGDOM",UK-ITV
+http://1tv41.icu:8080/ggct0Q/809783/53651
+
 #EXTINF:-1 tvg-id="channel4.uk" tvg-name="UK: Channel 4" tvg-logo="" group-title="UK UNITED KINGDOM",UK: Channel 4
 http://1tv41.icu:8080/ggct0Q/809783/99138
+
+#EXTINF:-1 tvg-id="channel5.uk" tvg-name="UK-Channel 5" tvg-logo="" group-title="UK UNITED KINGDOM",UK-Channel 5
+http://1tv41.icu:8080/ggct0Q/809783/53653
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK EuroSport 1 UK (P)" tvg-logo="" group-title="UK UNITED KINGDOM",UK EuroSport 1 UK (P)
+http://1tv41.icu:8080/ggct0Q/809783/53713
 
 #EXTINF:-1 tvg-id="rte.1.gb" tvg-name="UK: RTE NEWS" tvg-logo="" group-title="UK UNITED KINGDOM",UK: RTE NEWS
 http://1tv41.icu:8080/ggct0Q/809783/79108
@@ -135,6 +153,7 @@ http://1tv41.icu:8080/ggct0Q/809783/57288
 
 #EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
 http://1tv41.icu:8080/ggct0Q/809783/168466
+
 
 
 
