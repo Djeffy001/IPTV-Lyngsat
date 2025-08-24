@@ -1,10 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Belgium",La Une (1080p)
-http://41.205.93.154/LA-UNE/mpegts
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM 2 (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="France",20 Minutes TV (1080p)
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="France",RTL9
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
+
+#EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="France",AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+
+#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="France",Animaux
+https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="France",FR: AB3 HD
 http://1tv41.icu:8080/ggct0Q/809783/160302
+
+#EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Belgium",La Une (1080p)
+http://41.205.93.154/LA-UNE/mpegts
 
 #EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
@@ -42,18 +61,6 @@ http://1tv41.icu:8080/ggct0Q/809783/212901
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
 http://1tv41.icu:8080/ggct0Q/809783/212902
 
-#EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="Spain",3/24 (1080p)
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Spain",TV3CAT (1080p)
-https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
-
-#EXTINF:-1 tvg-id="20MinutesTV.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/320px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="France",20 Minutes TV (1080p)
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-
-#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info (1080p) [Geo-blocked]
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
 #EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Luxembourg",RTL-TVI (1080p) [Not 24/7]
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
@@ -75,6 +82,9 @@ https://ztnr.rtve.es/ztnr/3293681.m3u8
 #EXTINF:-1 tvg-id="La2Catalunya.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/TVE2_logo.png/330px-TVE2_logo.png" group-title="Spain",La 2 Catalunya (720p)
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
+#EXTINF:-1 tvg-id="Antena3Internacional.es@SD" tvg-logo="https://i.imgur.com/QMadWXp.png" group-title="Mexico",Antena 3 Internacional (480p)
+http://38.180.133.31:8000/play/a0ki/index.m3u8
+
 #EXTINF:-1 tvg-id="Cuatro.es" tvg-logo="https://i.imgur.com/NYLnABb.png" group-title="Spain",Cuatro (1080p)
 http://185.189.225.150:85/CuatroHD/index.m3u8
 
@@ -84,6 +94,15 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF:-1 tvg-id="ETB2.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/ETB2_2022_logo.svg/512px-ETB2_2022_logo.svg.png" group-title="Spain",ETB 2 (720p)
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
+#EXTINF:-1 tvg-id="324.es" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/324_%28CCMA%29_logo.svg/revision/latest/scale-to-width-down/512" group-title="Spain",3/24 (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="TV3CAT.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png" group-title="Spain",TV3CAT (1080p)
+https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="Clan.es" tvg-logo="https://i.imgur.com/03jFV68.png" group-title="Spain",Clan (1280p)
+https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
+
 #EXTINF:-1 tvg-id="DasErste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="Germany",Das Erste (1080p)
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
@@ -92,6 +111,9 @@ https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
 #EXTINF:-1 tvg-id="RTLZwei.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png" group-title="Germany",RTL Zwei HD (1080p)
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
+
+#EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Austria",RTL Super
+https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="Germany",Polsat News Polityka (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
@@ -181,6 +203,7 @@ http://185.234.111.229:8000/play/a00b
 
 ***********************************************************************************************************************************************************************************************************************************************************
 ***********************************************************************************************************************************************************************************************************************************************************
+
 
 
 
