@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-logo="https://i.imgur.com/AJx5Fy2.png" group-title="France",TV5Monde Info (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM 2 (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="France" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM 2 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
@@ -19,16 +19,22 @@ https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 #EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="France",Animaux
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="France",FR: AB3 HD
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB3 HD" tvg-logo="" group-title="Belgium",FR: AB3 HD
 http://1tv41.icu:8080/ggct0Q/809783/160302
 
 #EXTINF:-1 tvg-id="LaUne.be" tvg-logo="https://i.imgur.com/jMwZp7z.png" group-title="Belgium",La Une (1080p)
 http://41.205.93.154/LA-UNE/mpegts
 
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Belgium",RTL-TVI (1080p) [Not 24/7]
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" group-title="Belgium",LN24
+https://live-ln24.digiteka.com/1911668011/index.m3u8
+
 #EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="ITALY ",IT: RAI 2
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="Italy ",IT: RAI 2
 http://1tv41.icu:8080/ggct0Q/809783/212896
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3 (720p)
@@ -49,26 +55,17 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 #EXTINF:-1 tvg-id="LA7.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png" group-title="Italy",LA7 HD
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="ITALY ",IT: RAI 4
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI 4" tvg-logo="" group-title="Italy",IT: RAI 4
 http://1tv41.icu:8080/ggct0Q/809783/212898
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="ITALY ",IT: RAI ITALIA
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI ITALIA" tvg-logo="" group-title="Italy",IT: RAI ITALIA
 http://1tv41.icu:8080/ggct0Q/809783/212900
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="ITALY ",IT: RAI PREMIUM
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI PREMIUM" tvg-logo="" group-title="Italy",IT: RAI PREMIUM
 http://1tv41.icu:8080/ggct0Q/809783/212901
 
-#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="ITALY ",IT: RAI MOVIE
+#EXTINF:-1 tvg-id="" tvg-name="IT: RAI MOVIE" tvg-logo="" group-title="Italy",IT: RAI MOVIE
 http://1tv41.icu:8080/ggct0Q/809783/212902
-
-#EXTINF:-1 tvg-id="RTLTVI.be" tvg-logo="https://i.imgur.com/2CimAAN.png" group-title="Luxembourg",RTL-TVI (1080p) [Not 24/7]
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="LN24.be" tvg-logo="https://i.imgur.com/1EkZRwn.png" group-title="Belgium",LN24
-https://live-ln24.digiteka.com/1911668011/index.m3u8
-
-#EXTINF:-1 tvg-id="RTFrance.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/RT-France-logo.svg/512px-RT-France-logo.svg.png" group-title="Belgium",RT France (1080p) [Geo-blocked]
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
 #EXTINF:-1 tvg-id="QU4TRELiegeMedia.be" tvg-logo="https://i.imgur.com/GHFuvmZ.png" group-title="Belgium",Qu4tre (1080p)
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
@@ -192,6 +189,9 @@ http://1tv41.icu:8080/ggct0Q/809783/57288
 #EXTINF:-1 tvg-id="" tvg-name="CA (FR) addikTV HD (B)" tvg-logo="" group-title="Canada French",CA (FR) addikTV HD (B)
 http://1tv41.icu:8080/ggct0Q/809783/168466
 
+#EXTINF:-1 tvg-id="" tvg-name="USA: ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/American_Broadcasting_Company_Logo.svg/479px-American_Broadcasting_Company_Logo.svg.png" group-title="USA ",USA: ABC
+http://1tv41.icu:8080/ggct0Q/809783/22990
+
 #EXTINF:-1 tvg-id="TRT1.tr",TRT 1 (1080p)
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
@@ -204,8 +204,19 @@ http://185.234.111.229:8000/play/a00b
 ***********************************************************************************************************************************************************************************************************************************************************
 ***********************************************************************************************************************************************************************************************************************************************************
 
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR-REU - PLANETE+ HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/PLANETE-1.png" group-title="France",FR-REU - PLANETE+ HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987043
 
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR-CAR - PLANETE+ HD ²" tvg-logo="https://go4.pw/EUROPE/FRANCE/PLANETE-1.png" group-title="France",FR-CAR - PLANETE+ HD ²
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099696
 
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR - PLANETE  FHD ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/PLANETE-1.png" group-title="France",FR - PLANETE  FHD ◉
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57095
 
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="FR - PLANETE  HEVC ◉" tvg-logo="https://go4.pw/EUROPE/FRANCE/PLANETE-1.png" group-title="France",FR - PLANETE  HEVC ◉
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57065
+
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR - PLANETE  SD" tvg-logo="https://go4.pw/EUROPE/FRANCE/PLANETE-1.png" group-title="France",FR - PLANETE  SD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57035
 
 
