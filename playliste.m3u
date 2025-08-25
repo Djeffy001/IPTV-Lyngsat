@@ -254,3 +254,35 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/749997
 
 #EXTINF:-1 tvg-id="" tvg-name="FR-REU -CANAL 10 HD" tvg-logo="https://go4.pw/FRANCE/CANAL_10_HD.png" group-title="France",FR-REU -CANAL 10 HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/500459
+
+#EXTINF:-1 tvg-id="" tvg-name="##### FRANCE EUROSPORT #####" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE SPORTS",##### FRANCE EUROSPORT #####
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1121056
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56652
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 HEVC
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56577
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="FR - EUROSPORT 1 SD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 1 SD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56541
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56651
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 HEVC
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56576
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="FR - EUROSPORT 2 SD" tvg-logo="https://go4.pw/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 2 SD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56540
+#EXTINF:-1 tvg-id="eurosport3601.fr" tvg-name="FR - EUROSPORT 360 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 1 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/210229
+#EXTINF:-1 tvg-id="eurosport3602.fr" tvg-name="FR - EUROSPORT 360 2 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 2 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/210230
+#EXTINF:-1 tvg-id="eurosport3603.fr" tvg-name="FR - EUROSPORT 360 3 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 3 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/210231
+#EXTINF:-1 tvg-id="eurosport3604.fr" tvg-name="FR - EUROSPORT 360 4 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 4 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/210232
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="FR - EUROSPORT 360 5 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 5 FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/210233
+#EXTINF:-1 tvg-id="eurosport3606.fr" tvg-name="FR - EUROSPORT 360 6 HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 6 HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/957682
+#EXTINF:-1 tvg-id="eurosport3607.fr" tvg-name="FR - EUROSPORT 360 7 HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 7 HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/957683
+#EXTINF:-1 tvg-id="eurosport3608.fr" tvg-name="FR - EUROSPORT 360 8 HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/360.png" group-title="EU | FRANCE SPORTS",FR - EUROSPORT 360 8 HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/957684
+
