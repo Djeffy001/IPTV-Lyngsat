@@ -34,6 +34,8 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1 HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="FR - SCIENCE&VIE FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/SCIENCE_VIE.png" group-title="France",FR - SCIENCE&VIE FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57082
 #EXTINF:-1 tvg-id="" tvg-name="IT: RAI 2" tvg-logo="" group-title="Italy ",IT: RAI 2
 http://1tv41.icu:8080/ggct0Q/809783/212896
 
@@ -297,4 +299,5 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56999
 
 #EXTINF:-1 tvg-id="canalj.fr" tvg-name="FR-CAR - CANAL J HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL-J-FHD.png" group-title="France",FR-CAR - CANAL J HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
+
 
