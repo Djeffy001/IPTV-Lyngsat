@@ -294,3 +294,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987064
 
 #EXTINF:-1 tvg-id="teva.fr" tvg-name="FR - TEVA FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TEVA_SD.png" group-title="France",FR - TEVA FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56999
+
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="FR-CAR - CANAL J HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL-J-FHD.png" group-title="France",FR-CAR - CANAL J HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
+
