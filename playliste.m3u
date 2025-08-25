@@ -303,3 +303,14 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
 #EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - CANAL EVENEMENT HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - A+ HD" tvg-logo="https://go4.pw/AFRICA/A+.png" group-title="France",FR-REU - A+ HD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987074
+
+#EXTINF:-1 tvg-id="" tvg-name="FR-CAR - A+ HD ²" tvg-logo="https://go4.pw/AFRICA/A+.png" group-title="France",FR-CAR - A+ HD ²
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099720
+
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR - MY ZEN NATURE FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/MY_ZEN_NATURE.png" group-title="France",FR - MY ZEN NATURE FHD
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231635
+
+#EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR - MY ZEN NATURE HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/MY_ZEN_NATURE.png" group-title="EU | FRANCE DOCUMENTAIRE",FR - MY ZEN NATURE HEVC
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
