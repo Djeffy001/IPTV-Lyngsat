@@ -101,12 +101,12 @@ http://1tv41.icu:8080/ggct0Q/809783/160302
 AB3 HD
 
 #EXTINF:-1 
-https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
-
-#EXTINF:-1 
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 
 Qu4tre (1080p)
+
+#EXTINF:-1 
+https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 RTL-TVI (1080p) [Not 24/7]
 
@@ -422,6 +422,7 @@ CANAL EVENEMENT HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099720
 
 A+ HD ²
+
 
 
 
