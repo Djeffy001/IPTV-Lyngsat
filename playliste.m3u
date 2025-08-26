@@ -257,8 +257,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/749997
 #EXTINF:-1 tvg-id="" tvg-name="FR-REU -CANAL 10 HD" tvg-logo="https://go4.pw/FRANCE/CANAL_10_HD.png" group-title="France",FR-REU -CANAL 10 HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/500459
 
-#EXTINF:-1 tvg-id="" tvg-name="##### FRANCE TVS #####" tvg-logo="https://go4.pw/FRANCE/frlog.png" group-title="EU | FRANCE SPORTS",##### FRANCE TVS #####
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1121056
+#EXTINF:-1
 #EXTINF:-1 tvg-id="TVS1.fr" tvg-name="FR - TVS 1 FHD" tvg-logo="https://go4.pw/EUROPE/FRANCE/TVS1HD.png" group-title="EU | FRANCE SPORTS",FR - TVS 1 FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56652
 #EXTINF:-1 tvg-id="TVS1.fr" tvg-name="FR - TVS 1 HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/TVS1HD.png" group-title="EU | FRANCE SPORTS",FR - TVS 1 HEVC
@@ -314,6 +313,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231635
 
 #EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR - MY ZEN NATURE HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/MY_ZEN_NATURE.png" group-title="France",FR - MY ZEN NATURE HEVC
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
+
 
 
 
