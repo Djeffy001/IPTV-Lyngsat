@@ -116,11 +116,6 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 LN24
 
 #EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/53757
-
-BBC NEWS
-
-#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/53649
 
 BBC One
@@ -159,6 +154,11 @@ BBC Three HD (720p)
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 BBC Three/CBBC (1080p)
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/53757
+
+BBC NEWS
 
 #EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/79108
@@ -422,6 +422,7 @@ CANAL EVENEMENT HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099720
 
 A+ HD ²
+
 
 
 
