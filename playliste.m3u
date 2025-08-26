@@ -1,19 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099692
 
-TV5
-
-#EXTINF:-1
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-
-BFM2
+PARIS PREMIERE  HD ²
 
 #EXTINF:-1 
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56999
 
-20 Minutes TV (1080p)
+TEVA FHD
+
+#EXTINF:-1 
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56783
+
+SERIE CLUB SD
+
+#EXTINF:-1 
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57065
+
+PLANETE  HEVC ◉
+
+#EXTINF:-1 
+http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
+
+CANAL J HD
 
 #EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
@@ -30,10 +40,25 @@ https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
 Animaux
 
+#EXTINF:-1
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+
+BFM2
+
+#EXTINF:-1 
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+20 Minutes TV (1080p)
+
 #EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/160302
 
 AB3 HD
+
+#EXTINF:-1
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+TV5
 
 #EXTINF:-1 
 http://41.205.93.154/LA-UNE/mpegts
@@ -329,21 +354,6 @@ http://185.234.111.229:8000/play/a00b
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57065
-
-PLANETE  HEVC ◉
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56783
-
-SERIE CLUB SD
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099692
-
-PARIS PREMIERE  HD ²
-
-#EXTINF:-1 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/500456
 
 GUYANE 1ÈRE HD
@@ -389,16 +399,6 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987064
 TREK HD
 
 #EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56999
-
-TEVA FHD
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
-
-CANAL J HD
-
-#EXTINF:-1 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
@@ -412,6 +412,7 @@ A+ HD ²
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
 
 MY ZEN NATURE HEVC
+
 
 
 
