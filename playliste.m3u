@@ -35,68 +35,111 @@ http://1tv41.icu:8080/ggct0Q/809783/160302
 
 AB3 HD
 
-#EXTINF:-1 La Une (1080p)
+#EXTINF:-1 
 http://41.205.93.154/LA-UNE/mpegts
 
-#EXTINF:-1 RTL-TVI (1080p) [Not 24/7]
+La Une (1080p)
+
+#EXTINF:-1 
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 LN24
+RTL-TVI (1080p) [Not 24/7]
+
+#EXTINF:-1 
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
-#EXTINF:-1 Rai 1 HD (720p)
+LN24
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
-#EXTINF:-1 SCIENCE&VIE FHD
+Rai 1 HD (720p)
+
+#EXTINF:-1 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57082
 
-#EXTINF:-1 RAI 2
+SCIENCE&VIE FHD
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/212896
 
-#EXTINF:-1 Rai 3 (720p)
+RAI 2
+
+#EXTINF:-1 
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1 Rai News 24 HD
+Rai 3 (720p)
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
-#EXTINF:-1 Rete 4 HD
+Rai News 24 HD
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
-#EXTINF:-1 Canale 5 HD
+Rete 4 HD
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
-#EXTINF:-1 Super!
+Canale 5 HD
+
+
+#EXTINF:-1 
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
-#EXTINF:-1 LA7 HD
+Super!
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
-#EXTINF:-1 RAI 4
+LA7 HD
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/212898
 
-#EXTINF:-1 RAI ITALIA
+RAI 4
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/212900
 
-#EXTINF:-1 RAI PREMIUM
+RAI Italia
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/212901
 
-#EXTINF:-1 RAI MOVIE
+RAI PREMIUM
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/212902
 
-#EXTINF:-1 Qu4tre (1080p)
+RAI MOVIE
+
+#EXTINF:-1 
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 
-#EXTINF:-1 24 Horas (1080p)
+Qu4tre (1080p)
+
+#EXTINF:-1 
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
-#EXTINF:-1 La 1 Catalunya (720p)
+24 Horas (1080p)
+
+#EXTINF:-1 
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
-#EXTINF:-1 La 2 Catalunya (720p)
+La 1 Catalunya (720p)
+
+#EXTINF:-1 
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
-#EXTINF:-1 Antena 3 Internacional (480p)
+La 2 Catalunya (720p)
+
+#EXTINF:-1 
 http://38.180.133.31:8000/play/a0ki/index.m3u8
+
+Antena 3 Internacional (480p)
 
 #EXTINF:-1 Cuatro (1080p)
 http://185.189.225.150:85/CuatroHD/index.m3u8
@@ -327,6 +370,7 @@ MY ZEN NATURE FHD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
 
 MY ZEN NATURE HEVC
+
 
 
 
