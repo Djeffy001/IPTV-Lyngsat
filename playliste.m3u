@@ -1,25 +1,39 @@
 #EXTM3U
 
-#EXTINF:-1 TV5
+#EXTINF:-1
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 BFM2
+TV5
+
+#EXTINF:-1
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 20 Minutes TV (1080p)
+BFM2
+
+#EXTINF:-1 
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
-#EXTINF:-1 RTL9
+20 Minutes TV (1080p)
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 
-#EXTINF:-1 AB1
+RTL9
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
-#EXTINF:-1 Animaux
+AB1
+
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
-#EXTINF:-1 AB3 HD
+Animaux
+
+#EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/160302
+
+AB3 HD
 
 #EXTINF:-1 La Une (1080p)
 http://41.205.93.154/LA-UNE/mpegts
@@ -303,6 +317,7 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231635
 
 #EXTINF:-1 tvg-id="myzen.fr" tvg-name="FR - MY ZEN NATURE HEVC" tvg-logo="https://go4.pw/EUROPE/FRANCE/MY_ZEN_NATURE.png" group-title="France",FR - MY ZEN NATURE HEVC
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
+
 
 
 
