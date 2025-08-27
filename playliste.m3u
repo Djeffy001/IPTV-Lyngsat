@@ -90,6 +90,8 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
 
 MY ZEN NATURE HEVC
 
+***********************************************************************************************************************************************************************************************************************************************************
+
 #EXTINF:-1 
 http://41.205.93.154/LA-UNE/mpegts
 
@@ -115,6 +117,9 @@ https://live-ln24.digiteka.com/1911668011/index.m3u8
 
 LN24
 
+
+***********************************************************************************************************************************************************************************************************************************************************
+
 #EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/53649
 
@@ -136,19 +141,9 @@ http://1tv41.icu:8080/ggct0Q/809783/53653
 Channel 5
 
 #EXTINF:-1 
-https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8
-
-BBC Four UK HD
-
-#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 BBC Four/CBeebies (1080p)
-
-#EXTINF:-1 
-https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
-
-BBC Three HD (720p)
 
 #EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
@@ -165,71 +160,7 @@ http://1tv41.icu:8080/ggct0Q/809783/79108
 
 RTE NEWS
 
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-
-Rai 1 HD (720p)
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212896
-
-RAI 2
-
-#EXTINF:-1 
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-
-Rai 3 (720p)
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-
-Rai News 24 HD
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-
-Rete 4 HD
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-
-Canale 5 HD
-
-
-#EXTINF:-1 
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-
-Super!
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-
-LA7 HD
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212898
-
-RAI 4
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212900
-
-RAI Italia
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212901
-
-RAI PREMIUM
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212902
-
-RAI MOVIE
-
-#EXTINF:-1 
-https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
-
-24 Horas (1080p)
+***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -272,9 +203,81 @@ https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 TV3CAT (1080p)
 
 #EXTINF:-1 
+https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
+
+24 Horas (1080p)
+
+#EXTINF:-1 
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 Clan (1280p)
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/164792
+
+RTP 1 FHD
+
+***********************************************************************************************************************************************************************************************************************************************************
+
+#EXTINF:-1 
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+
+Rai 1 HD (720p)
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/212896
+
+RAI 2
+
+#EXTINF:-1 
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+Rai 3 (720p)
+
+#EXTINF:-1 
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
+
+Rete 4 HD
+
+#EXTINF:-1 
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
+
+Canale 5 HD
+
+#EXTINF:-1 
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+
+Rai News 24 HD
+
+#EXTINF:-1 
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+Super!
+
+#EXTINF:-1 
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
+
+LA7 HD
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/212898
+
+RAI 4
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/212900
+
+RAI Italia
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/212901
+
+RAI PREMIUM
+
+#EXTINF:-1 
+http://1tv41.icu:8080/ggct0Q/809783/212902
+
+RAI MOVIE
 
 #EXTINF:-1 
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
@@ -297,6 +300,11 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 RTL Super
 
 #EXTINF:-1 
+https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
+
+TVP1 (1080p)
+
+#EXTINF:-1 
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 
 Polsat News Polityka (1080p) [Geo-blocked]
@@ -311,16 +319,6 @@ ProSieben (576p)
 https://ntv4.mov3.co/hls/ntv.m3u8
 
 Nippon TV (540p) [Not 24/7]
-
-#EXTINF:-1 
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-
-TVP1 (1080p)
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/164792
-
-RTP 1 FHD
 
 #EXTINF:-1 
 http://1tv41.icu:8080/ggct0Q/809783/57497
@@ -422,6 +420,7 @@ CANAL EVENEMENT HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099720
 
 A+ HD ²
+
 
 
 
