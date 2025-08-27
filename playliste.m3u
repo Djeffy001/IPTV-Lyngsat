@@ -281,7 +281,7 @@ Super!
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - CANAL EVENEMENT HD
+#EXTINF:-1
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 
 Das erste
@@ -423,6 +423,7 @@ CANAL EVENEMENT HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099720
 
 A+ HD ²
+
 
 
 
