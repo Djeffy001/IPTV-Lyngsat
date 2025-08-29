@@ -20,10 +20,20 @@ http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57065
 
 PLANETE  HEVC ◉
 
+#EXTINF:-1 c21
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1062115
+
+Canal 21
+
 #EXTINF:-1 
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 20 Minutes TV (1080p)
+
+#EXTINF:-1 fig
+http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1062119
+
+Figaro tv
 
 #EXTINF:-1
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
@@ -401,6 +411,7 @@ REUNION 1ERE HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
+
 
 
 
