@@ -28,11 +28,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV5
 
-#EXTINF:-1
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-
-BFM2
-
 #EXTINF:-1 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/500455
 
@@ -47,11 +42,6 @@ CANAL 10 HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56577
 
 EUROSPORT 1 HEVC
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56576
-
-EUROSPORT 2 HEVC
 
 #EXTINF:-1 
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/231640
@@ -393,6 +383,7 @@ REUNION 1ERE HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
+
 
 
 
