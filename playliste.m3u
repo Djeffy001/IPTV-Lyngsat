@@ -1,14 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099692
-
-PARIS PREMIERE  HD ²
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/56999
-
-TEVA FHD
+#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR ▎COMEDIE+ HD" tvg-logo="https://img.logo-cdn.cc/comedieplus.png" group-title="FR ▎DIVERTISSEMENT",FR ▎COMEDIE+ HD
+http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130876
 
 #EXTINF:-1 
 http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130880
@@ -24,41 +17,6 @@ TV BREIZH
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57065
 
 PLANETE  HEVC ◉
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/1099731
-
-CANAL J HD
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
-
-RTL9
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
-
-AB1
-
-#EXTINF:-1 
-http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130997
-
-MANGAS HD 4ᴋ
-
-#EXTINF:-1 
-https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
-
-Animaux
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987064
-
-TREK HD
-
-#EXTINF:-1 
-http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/57082
-
-SCIENCE&VIE FHD
 
 #EXTINF:-1 
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -435,6 +393,7 @@ REUNION 1ERE HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
+
 
 
 
