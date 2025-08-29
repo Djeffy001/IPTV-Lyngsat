@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR ▎COMEDIE+ HD" tvg-logo="https://img.logo-cdn.cc/comedieplus.png" group-title="FR ▎DIVERTISSEMENT",FR ▎COMEDIE+ HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130876
+
+COMEDIE+
 
 #EXTINF:-1 
 http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130880
@@ -383,6 +385,7 @@ REUNION 1ERE HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
+
 
 
 
