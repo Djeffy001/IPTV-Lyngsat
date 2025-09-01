@@ -20,12 +20,12 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/148479
 
 PLANETE  HEVC ◉
 
-#EXTINF:-1 ab xplore
+#EXTINF:-1
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/599310
 
 ABXPLORE
 
-#EXTINF:-1 c21
+#EXTINF:-1
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1062115
 
 Canal 21
@@ -351,8 +351,6 @@ http://mains.services/live/pmf0423/1aku0jt%40/43c4ed85-7656-4dab-8187-db6012e833
 http://mains.services/live/pmf0423/1aku0jt%40/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
 #EXTINF:-1,FRCAN : CANAL SAVOIR
 http://mains.services/live/pmf0423/1aku0jt%40/400188f4-ba8e-448a-bf45-66ee53a03f02.m3u
-#EXTINF:-1,FRCAN : CANAL VIE
-http://mains.services/live/pmf0423/1aku0jt%40/a8236f86-cd65-4d00-9f8c-c4d37541613e.m3u
 #EXTINF:-1,FRCAN : CASA
 http://mains.services/live/pmf0423/1aku0jt%40/89332941-c435-4ba3-bc87-ff8a94c0c1db.m3u
 #EXTINF:-1,FRCAN : CINEPOP
@@ -361,20 +359,12 @@ http://mains.services/live/pmf0423/1aku0jt%40/8fdd1af5-4672-4175-8817-a1dcde20a2
 http://mains.services/live/pmf0423/1aku0jt%40/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
 #EXTINF:-1,FRCAN : HISTORIA
 http://mains.services/live/pmf0423/1aku0jt%40/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
-#EXTINF:-1,FRCAN : ICI RADIO CANADA TELE
-http://mains.services/live/pmf0423/1aku0jt%40/cf1c1f37-4cc8-4756-86ba-21d534f4f9cd.m3u
-#EXTINF:-1,FRCAN : ICI RDI TELE
-http://mains.services/live/pmf0423/1aku0jt%40/c9d0deac-5561-434d-b744-a24563f59933.m3u
-#EXTINF:-1,FRCAN : LCN HD
-http://mains.services/live/pmf0423/1aku0jt%40/5a5b6696-270f-43e2-96a3-67de97cd4b5e.m3u
 #EXTINF:-1,FRCAN : NOOVO
 http://mains.services/live/pmf0423/1aku0jt%40/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
 #EXTINF:-1,FRCAN : RDS
 http://mains.services/live/pmf0423/1aku0jt%40/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
 #EXTINF:-1,FRCAN : TELETOON
 http://mains.services/live/pmf0423/1aku0jt%40/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
-#EXTINF:-1,FRCAN : TVA MTL HD
-http://mains.services/live/pmf0423/1aku0jt%40/448aa669-c951-4444-b0d8-7d2c9db39efb.m3u
 #EXTINF:-1,FRCAN : UNIS TV
 http://mains.services/live/pmf0423/1aku0jt%40/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
 #EXTINF:-1,FRCAN : YOOPA
@@ -414,6 +404,7 @@ TRT 2 (720p)
 http://185.234.111.229:8000/play/a00b
 
 TRT Cocuk (1080p)
+
 
 
 
