@@ -89,94 +89,75 @@ RTS-2
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC1
 http://1tv41.icu:8080/ggct0Q/809783/53649
 
 BBC One
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC 2
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 BBC Two HD (720p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - CHANNEL 4
 http://1tv41.icu:8080/ggct0Q/809783/99138
 
 Channel 4
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - CHANNEL 5
 http://1tv41.icu:8080/ggct0Q/809783/53653
 
 Channel 5
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC 4
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 BBC Four/CBeebies (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC 3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 BBC Three/CBBC (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC NEWS
 http://1tv41.icu:8080/ggct0Q/809783/53757
 
 BBC NEWS
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - TVE 1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 La 1 Catalunya (720p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - TVE 2
+
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 La 2 Catalunya (720p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - ANTENA 3
 http://38.180.133.31:8000/play/a0ki/index.m3u8
 
 Antena 3 Internacional (480p)
 
-#EXTINF:-1 
-http://185.189.225.150:85/CuatroHD/index.m3u8
-
-Cuatro (1080p)
-
-#EXTINF:-1 
-https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
-
-ETB 1 (720p)
-
-#EXTINF:-1 
-https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-
-ETB 2 (720p)
-
-#EXTINF:-1 
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-
-3/24 (1080p)
-
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - TV 3
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
 TV3CAT (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - 24 HORAS
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
 24 Horas (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - CLAN
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
 Clan (1280p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - RTP 1
 http://1tv41.icu:8080/ggct0Q/809783/164792
 
 RTP 1 FHD
@@ -384,6 +365,7 @@ TRT 2 (720p)
 http://185.234.111.229:8000/play/a00b
 
 TRT Cocuk (1080p)
+
 
 
 
