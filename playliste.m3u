@@ -1,9 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1
-http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130876
-
-COMEDIE+
+<track>
+			<location>http://line.queen-4k.cc:80/6D2A4754/2F7488F9/130876</location>
+			<title>FR ▎COMEDIE+ HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
 
 #EXTINF:-1 
 http://line.4k-soy.cc:80/MFKFU1AMPJ/ZHYVPIISCC/130880
@@ -463,6 +466,7 @@ REUNION 1ERE HD
 http://goldenpro.xyz:80/51GYZ3Q/G0N5T14/987097
 
 CANAL EVENEMENT HD
+
 
 
 
