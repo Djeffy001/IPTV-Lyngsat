@@ -89,8 +89,8 @@ RTS-2
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC1
 http://1tv41.icu:8080/ggct0Q/809783/53649
+#EXTINF:-1 tvg-id="" tvg-name="FR-REU - CANAL EVENEMENT HD" tvg-logo="https://go4.pw/EUROPE/FRANCE/CANAL_EVENEMENT.png" group-title="France",FR-REU - BBC1
 
 BBC One
 
@@ -365,6 +365,7 @@ TRT 2 (720p)
 http://185.234.111.229:8000/play/a00b
 
 TRT Cocuk (1080p)
+
 
 
 
