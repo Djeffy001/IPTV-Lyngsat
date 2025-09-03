@@ -95,7 +95,7 @@ http://1tv41.icu:8080/ggct0Q/809783/53649
 #EXTINF:-1,
 https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
-#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK ▎ITV 1 HD" tvg-logo="https://img.logo-cdn.cc/itv1.png" group-title="UK ▎GENERAL",UK ▎ITV 1 HD
+#EXTINF:-1,
 http://line.queen-4k.cc:80/6D2A4754/2F7488F9/745624
 
 #EXTINF:-1,
@@ -330,6 +330,7 @@ TRT 1 (1080p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 TRT 2 (720p)
+
 
 
 
