@@ -309,33 +309,33 @@ http://1tv41.icu:8080/ggct0Q/809783/168466
 addikTV HD (B)
 
 http://mains.services/live/pmf0423/1aku0jt%40/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
-#EXTINF:-1,FRCAN : ARTV
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/43c4ed85-7656-4dab-8187-db6012e83317.m3u
-#EXTINF:-1,FRCAN : CANAL D
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
-#EXTINF:-1,FRCAN : CANAL SAVOIR
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/400188f4-ba8e-448a-bf45-66ee53a03f02.m3u
-#EXTINF:-1,FRCAN : CASA
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/89332941-c435-4ba3-bc87-ff8a94c0c1db.m3u
-#EXTINF:-1,FRCAN : CINEPOP
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/8fdd1af5-4672-4175-8817-a1dcde20a260.m3u
-#EXTINF:-1,FRCAN : GLOBAL MTL
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
-#EXTINF:-1,FRCAN : HISTORIA
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
-#EXTINF:-1,FRCAN : NOOVO
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
-#EXTINF:-1,FRCAN : RDS
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
-#EXTINF:-1,FRCAN : TELETOON
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
-#EXTINF:-1,FRCAN : UNIS TV
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
-#EXTINF:-1,FRCAN : YOOPA
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
-#EXTINF:-1,FRCAN : Z TELE
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
-#EXTINF:-1,FRCAN : ZESTE
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
 
 
@@ -363,6 +363,7 @@ TRT 1 (1080p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 TRT 2 (720p)
+
 
 
 
