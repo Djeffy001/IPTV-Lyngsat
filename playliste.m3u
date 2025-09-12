@@ -5,7 +5,7 @@ http://41.205.93.154/LA-UNE/mpegts
 
 La 1
 
-#EXTINF:-1 tvg-id="AB3.be@HD" tvg-logo="https://i.postimg.cc/RZ2N611D/ab3.png" group-title="Belgium",AB3 HD
+#EXTINF:-1
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
 AB 3
@@ -310,20 +310,19 @@ TRT 2 (720p)
 
 ************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="AB1.fr@SD" tvg-logo="https://i.imgur.com/9C7UsOe.png" group-title="France",AB1
+#EXTINF:-1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
-#EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="France",RTL9
+#EXTINF:-1
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-HLS8/rtl9.m3u8
 
-#EXTINF:-1 tvg-id="Animaux.fr@SD" tvg-logo="https://i.imgur.com/FM9FVAG.png" group-title="France",Animaux
+#EXTINF:-1
 https://viamotionhsi.netplus.ch/live/eds/animaux/browser-HLS8/animaux.m3u8
 
-#EXTINF:-1 tvg-id="CanalJ.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Canal_J_2019_Logo.png/512px-Canal_J_2019_Logo.png" group-title="France",Canal J HD
+#EXTINF:-1
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined" http-user-agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",BFM 2 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
 #EXTINF:-1 
@@ -378,6 +377,7 @@ TV 5 M
 
 #EXTINF:0,
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/383
+
 
 
 
