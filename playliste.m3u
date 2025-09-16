@@ -394,15 +394,6 @@ https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/53
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2
-https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BjHZT7x/ert3.png",ERT 3
-https://speech8.anixa.tv/ert3CC/ert3CC/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",ERT WORLD
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 
@@ -415,6 +406,7 @@ https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
+
 
 
 
