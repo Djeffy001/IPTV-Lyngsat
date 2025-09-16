@@ -173,21 +173,6 @@ Super!
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="Das.Erste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="General",Das Erste HD (1080p)
-https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
-
-1
-
-#EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF HD (720p)
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpdhttps://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-
-2
-
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-2i
-
 #EXTINF:-1 
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
@@ -207,9 +192,6 @@ RTL Super
 http://85.187.13.40:18000/ProSieben
 
 ProSieben (576p)
-
-#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="General",3sat (720p) [Geo-blocked]
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -431,11 +413,9 @@ https://ertflix.akamaized.net/ertlive/ertnews2/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3g5tM/ertnews3.png",ERT NEWS 3
 https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="27. |IR|🇮🇷 IRAN",IRIB 1
-https://s1.ettehadlive.com/live/39/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
+
 
 
 
