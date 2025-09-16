@@ -370,11 +370,6 @@ http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/52135
 
 TV 5 M
 
-#EXTINF:0,
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/383
-
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/aVWvbjp/index.m3u8"
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 
@@ -386,13 +381,16 @@ https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
 https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kc1Dy1d/ertnews2.png",ERT NEWS 2
 https://ertflix.akamaized.net/ertlive/ertnews2/default/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kx3g5tM/ertnews3.png",ERT NEWS 3
 https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
+
 
 
 
