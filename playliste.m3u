@@ -173,10 +173,20 @@ Super!
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ARD_Dachmarke_2014.svg/512px-ARD_Dachmarke_2014.svg.png" group-title="General",Das Erste HD (1080p)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
 
-Das erste
+1
+
+#EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF HD (720p)
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpdhttps://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+
+2
+
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-logo="https://i.imgur.com/vtq1IWp.png" group-title="Undefined",ZDFinfo (720p) [Geo-blocked]
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
+
+2i
 
 #EXTINF:-1 
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
@@ -197,6 +207,9 @@ RTL Super
 http://85.187.13.40:18000/ProSieben
 
 ProSieben (576p)
+
+#EXTINF:-1 tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/512px-3sat_2019.svg.png" group-title="General",3sat (720p) [Geo-blocked]
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -378,7 +391,78 @@ TV 5 M
 #EXTINF:0,
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/383
 
+#EXT-X-VERSION:7
+## Just In Time Delivered by Quortex Solution, version 3.0.1
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.4d000c,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vd8k1Do/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/v8ib2IW/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vTbg2Bk/index.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vBadSAb/index.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/aVWvbjp/index.m3u8"
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2
+https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
+https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/420Bjqt/tv5europe.png",TV5MONDE EUROPE [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE AFRIQUE [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE ASIE SUD-EST [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png",FUN RADIO TV FR
+https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE [geo-area]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE [geo-area]
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1gua.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YjkMYbF/trtcocuk21a.png" group-title="8. |TR|🇹🇷 ÇOCUK / SPOR",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YDX83ph/ert1.png",ERT 1
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bL4sJLW/ert2.png",ERT 2
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BjHZT7x/ert3.png",ERT 3
+https://speech8.anixa.tv/ert3CC/ert3CC/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vQZKgNX/ertworld.png" group-title="12. |GR|🇬🇷 GREECE Ελλά",ERT WORLD
+https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qNZ259D/ertnews.png",ERT NEWS
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kc1Dy1d/ertnews2.png",ERT NEWS 2
+https://ertflix.akamaized.net/ertlive/ertnews2/default/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kx3g5tM/ertnews3.png",ERT NEWS 3
+https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png" group-title="27. |IR|🇮🇷 IRAN",IRIB 1
+https://s1.ettehadlive.com/live/39/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
+https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 
 
