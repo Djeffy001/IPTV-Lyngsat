@@ -373,19 +373,6 @@ TV 5 M
 #EXTINF:0,
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/383
 
-#EXT-X-VERSION:7
-## Just In Time Delivered by Quortex Solution, version 3.0.1
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=3150000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vZNA6hM/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=300000,RESOLUTION=400x224,FRAME-RATE=25,CODECS="avc1.4d000c,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vd8k1Do/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=640x360,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/v8ib2IW/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1500000,RESOLUTION=720x404,FRAME-RATE=25,CODECS="avc1.4d0016,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vTbg2Bk/index.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2100000,RESOLUTION=960x540,FRAME-RATE=25,CODECS="avc1.4d001f,mp4a.40.2",AUDIO="aac-lc-96000"
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/vBadSAb/index.m3u8
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac-lc-96000",NAME="French",LANGUAGE="fre",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://origin2-6play.live.6cloud.fr/pool_rnpls9by/teva/sixplayhde/hls_short_fp10_teva/NA/aVWvbjp/index.m3u8"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j68q1Bp/i24.png",i24 NEWS FR
@@ -406,6 +393,7 @@ https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tMV7LBL/irib1.png",IRIB 1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
+
 
 
 
