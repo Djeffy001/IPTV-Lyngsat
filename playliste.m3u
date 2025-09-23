@@ -465,7 +465,7 @@ http://line.4k-soy.cc:80/557714/A9FC62/131282
 
 KERT
 
-#EXTINF:-1 tvg-ID="myzen.fr" tvg-name="|FR| MY ZEN TV ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/My_Zen_Tv_LOGO_Couleur_vide.jpg" group-title="|FR| SPORT",|FR| MY ZEN TV ᴴᴰ
+#EXTINF:-1
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/146157
 
 NEZYM
@@ -475,35 +475,35 @@ http://line.4k-soy.cc:80/557714/A9FC62/386749
 
 N NEZYM
 
-#EXTINF:-1,FR : MCM HD
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/1e526810-b84d-4210-a026-05a72c83bd43.m3u
 
 m c m
 
-#EXTINF:-1,FR : MCM TOP
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/080b1101-5366-4e18-8760-4938fe830b59.m3u
 
 pot m c m
 
-#EXTINF:-1,FR : M6 MUSIC
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/1fbd5878-2ab2-4401-aaad-baef61052ff6.m3u
 
 CISUM 6M
 
-#EXTINF:-1,FR : RFM TV
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/b17e4a68-9ec0-4292-a26d-d1dfb25ddfa7.m3u
 
 MFR
 
-#EXTINF:-1,FR : SCIENCES & VIE
+#EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/aa48c012-bda1-48b5-8f1b-759f1e285b6c.m3u
 
 EIV 
 
-#EXTINF:-1 tvg-ID="eurosport1.fr" tvg-name="|FR| Eurosport 1 ᴴᴰ" tvg-logo="http://138.199.27.237:8080/FRANCE/EUROSPORT1HD.png" group-title="|FR| EUROSPORT",|FR| Eurosport 1 ᴴᴰ
+#EXTINF:-1
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/238
 
-
+S ORUE
 
 
 
