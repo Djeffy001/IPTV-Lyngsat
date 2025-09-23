@@ -385,7 +385,7 @@ https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 
 N TRE 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kc1Dy1d/ertnews2.png",ERT NEWS 2
+#EXTINF:-1
 https://ertflix.akamaized.net/ertlive/ertnews2/default/playlist.m3u8
 
 2 N TRE
@@ -494,6 +494,7 @@ MFR
 http://mains.services/live/pmf0423/1aku0jt%40/aa48c012-bda1-48b5-8f1b-759f1e285b6c.m3u
 
 EIV 
+
 
 
 
