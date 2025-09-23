@@ -400,73 +400,76 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
 
-#EXTINF:-1 tvg-ID="teva.fr" tvg-name="FR ▎TEVA HD" tvg-logo="http://img.logo-cdn.cc/teva.png" group-title="FR ▎GÉNÉRAL",FR ▎TEVA HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131075
 
 avet
 
-#EXTINF:-1 tvg-ID="oltv.fr" tvg-name="FR ▎OLYMPIA HD" tvg-logo="http://img.logo-cdn.cc/olympiatv.png" group-title="FR ▎GÉNÉRAL",FR ▎OLYMPIA HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131106
 
 PIPMYLO
 
-#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR ▎DISNEY CHANNEL HD" tvg-logo="http://img.logo-cdn.cc/disneychannel.png" group-title="FR ▎ANIMATION ENFANTS",FR ▎DISNEY CHANNEL HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131313
 
 YENSID
 
-#EXTINF:-1 tvg-ID="mangas.fr" tvg-name="FR ▎MANGAS HD" tvg-logo="http://img.logo-cdn.cc/mangas.png" group-title="FR ▎ANIMATION ENFANTS",FR ▎MANGAS HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131341
 
 SAGNAM
 
-#EXTINF:-1 tvg-ID="syfy.fr" tvg-name="FR ▎SYFY HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/syfy.png" group-title="FR ▎DIVERTISSEMENT",FR ▎SYFY HD 4ᴋ
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/130820
 
-YFYS#EXTINF:-1 tvg-ID="comedieplus.fr" tvg-name="FR ▎COMEDIE+ HD" tvg-logo="https://img.logo-cdn.cc/comedieplus.png" group-title="FR ▎DIVERTISSEMENT",FR ▎COMEDIE+ HD
+YFYS
+
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/130876
 
 !EIDEMOC
 
-#EXTINF:-1 tvg-ID="parispremiere.fr" tvg-name="FR ▎PARIS PREMIERE HD ◉ rec" tvg-logo="http://img.logo-cdn.cc/parispremiere.png" group-title="FR ▎DIVERTISSEMENT",FR ▎PARIS PREMIERE HD ◉ rec
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131114
 
 PP
 
-#EXTINF:-1 tvg-ID="" tvg-name="FR ▎WARNER TV HD" tvg-logo="https://img.logo-cdn.cc/warnertv.png" group-title="FR ▎DIVERTISSEMENT",FR ▎WARNER TV HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/772391
 
 RENRAW
 
-#EXTINF:-1 tvg-ID="discoverychannel.fr" tvg-name="FR ▎DISCOVERY CHANNEL HD" tvg-logo="https://img.logo-cdn.cc/discoverychannel.png" group-title="FR ▎DOCUMENTAIRES",FR ▎DISCOVERY CHANNEL HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131272
 
 YREVOCSID
 
-#EXTINF:-1 tvg-ID="natgeo.fr" tvg-name="FR ▎NATIONAL GEO HD" tvg-logo="https://img.logo-cdn.cc/ngchd.png" group-title="FR ▎DOCUMENTAIRES",FR ▎NATIONAL GEO HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131268
 
 OEG N
 
-#EXTINF:-1 tvg-ID="histoire.fr" tvg-name="FR ▎HISTOIRE HD" tvg-logo="https://img.logo-cdn.cc/histoire.png" group-title="FR ▎DOCUMENTAIRES",FR ▎HISTOIRE HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131284
 
 ERIOTSIH
 
-#EXTINF:-1 tvg-ID="toutehistoire.fr" tvg-name="FR ▎TOUTE L HISTOIRE HD" tvg-logo="https://img.logo-cdn.cc/toutelhistoire.png" group-title="FR ▎DOCUMENTAIRES",FR ▎TOUTE L HISTOIRE HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131286
 
 ERIOTSIH T
 
-#EXTINF:-1 tvg-ID="trek.fr" tvg-name="FR ▎TREK HD" tvg-logo="https://img.logo-cdn.cc/trek.png" group-title="FR ▎DOCUMENTAIRES",FR ▎TREK HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/131282
 
 KERT
 
-#EXTINF:-1 tvg-ID="" tvg-name="FR ▎MY ZEN NATURE HD" tvg-logo="https://img.logo-cdn.cc/myzenhd.png" group-title="FR ▎DOCUMENTAIRES",FR ▎MY ZEN NATURE HD
+#EXTINF:-1
 http://line.4k-soy.cc:80/557714/A9FC62/386749
 
 N NEZYM
+
 
 
 
