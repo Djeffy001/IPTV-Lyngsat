@@ -92,11 +92,6 @@ https://ztnr.rtve.es/ztnr/3987218.m3u8
 2
 
 #EXTINF:-1,
-http://38.180.133.31:8000/play/a0ki/index.m3u8
-
-3
-
-#EXTINF:-1,
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
 #EXTINF:-1,
@@ -194,11 +189,6 @@ http://85.187.13.40:18000/ProSieben
 ProSieben (576p)
 
 ***********************************************************************************************************************************************************************************************************************************************************
-
-#EXTINF:-1 
-https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
-
-TVP1 (1080p)
 
 #EXTINF:-1
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
@@ -303,6 +293,11 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 TRT 2 (720p)
 
+#EXTINF:-1
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+KUCOC TRT
+
 ************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1
@@ -369,11 +364,6 @@ TV 5 M
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 
 N 42I
-
-#EXTINF:-1
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-KUCOC TRT
 
 #EXTINF:-1
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
@@ -504,6 +494,7 @@ EIV
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/238
 
 S ORUE
+
 
 
 
