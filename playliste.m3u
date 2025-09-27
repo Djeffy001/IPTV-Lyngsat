@@ -195,7 +195,7 @@ ProSieben (576p)
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="TVP1.pl" tvg-logo="https://i.imgur.com/ewpSjBs.png" group-title="Poland",TVP1 (1080p)
+#EXTINF:-1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
 1PVT
@@ -464,6 +464,7 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1135
 
 #EXTINF:-1 tvg-id="cstarhitsfrance.fr" tvg-name="FR| CSTAR HITS FRANCE HD" tvg-logo="https://lo1.in/fr/cstrhf0.png" group-title="EU | FRANCE MUSIC ",FR| CSTAR HITS FRANCE HD
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1175
+
 
 
 
