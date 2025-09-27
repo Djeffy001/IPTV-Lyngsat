@@ -49,7 +49,7 @@ https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 
 2
 
-#EXTINF:-1 tvg-ID="itv1anglia.uk" tvg-name="UK ▎ITV 1 HD" tvg-logo="https://img.logo-cdn.cc/itv1.png" group-title="UK ▎GENERAL",UK ▎ITV 1 HD
+#EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
 C4
@@ -464,6 +464,7 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1135
 
 #EXTINF:-1 tvg-id="cstarhitsfrance.fr" tvg-name="FR| CSTAR HITS FRANCE HD" tvg-logo="https://lo1.in/fr/cstrhf0.png" group-title="EU | FRANCE MUSIC ",FR| CSTAR HITS FRANCE HD
 http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1175
+
 
 
 
