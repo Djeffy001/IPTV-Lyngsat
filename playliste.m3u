@@ -156,6 +156,16 @@ http://1tv41.icu:8080/ggct0Q/809783/212902
 
 RAI MOVIE
 
+#EXTINF:0,ITALIA 1
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+
+1ailati
+
+#EXTINF:0,TG COM 24
+https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
+
+42 moc gt
+
 #EXTINF:-1 
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
@@ -424,6 +434,7 @@ EIV
 http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/238
 
 S ORUE
+
 
 
 
