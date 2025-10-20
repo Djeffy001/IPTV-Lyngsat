@@ -128,16 +128,6 @@ http://1tv41.icu:8080/ggct0Q/809783/212898
 
 RAI 4
 
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212900
-
-RAI Italia
-
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/212902
-
-RAI MOVIE
-
 #EXTINF:0,
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
@@ -177,11 +167,6 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
 1PVT
 
-#EXTINF:-1
-https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-
-PNPol
-
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 
@@ -218,12 +203,6 @@ Canal Vie HD
 http://1tv41.icu:8080/ggct0Q/809783/57288
 
 TV5 CA 
-
-#EXTINF:-1,
-https://ntv4.mov3.co/hls/ntv.m3u8
-
-
-Nippon TV (540p) [Not 24/7]
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -282,11 +261,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 TV 5
 
 #EXTINF:-1
-https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-
-N 42I
-
-#EXTINF:-1
 https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 
 W TRE
@@ -310,26 +284,6 @@ https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
-
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/1e526810-b84d-4210-a026-05a72c83bd43.m3u
-
-m c m
-
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/080b1101-5366-4e18-8760-4938fe830b59.m3u
-
-pot m c m
-
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/1fbd5878-2ab2-4401-aaad-baef61052ff6.m3u
-
-CISUM 6M
-
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/b17e4a68-9ec0-4292-a26d-d1dfb25ddfa7.m3u
-
-MFR
 
 
 
