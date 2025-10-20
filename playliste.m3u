@@ -27,25 +27,13 @@ Hélène
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/43951
-
-S1
-
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/43952
-
-S2
-
-***********************************************************************************************************************************************************************************************************************************************************
-
 #EXTINF:-1,
 http://1tv41.icu:8080/ggct0Q/809783/53649
 
 1
 
-#EXTINF:-1,
-https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="United Kingdom",BBC Two HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 2
 
@@ -54,8 +42,8 @@ https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
 C4
 
-#EXTINF:-1,
-http://1tv41.icu:8080/ggct0Q/809783/53653
+#EXTINF:-1 tvg-id="Channel5.uk@HD" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1800.png" group-title="United Kingdom",Channel 5 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 C5
 
@@ -97,12 +85,6 @@ https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1,
 http://1tv41.icu:8080/ggct0Q/809783/164792
-
-#EXTINF:-1
-http://line.queen-4k.cc:80/6D2A4754/2F7488F9/105700
-
-#EXTINF:-1
-http://line.queen-4k.cc:80/6D2A4754/2F7488F9/123771
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -188,11 +170,6 @@ https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 
 RTL Super
 
-#EXTINF:-1 
-http://85.187.13.40:18000/ProSieben
-
-ProSieben (576p)
-
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1
@@ -242,42 +219,6 @@ http://1tv41.icu:8080/ggct0Q/809783/57288
 
 TV5 CA 
 
-#EXTINF:-1 
-http://1tv41.icu:8080/ggct0Q/809783/168466
-
-addikTV HD (B)
-
-http://mains.services/live/pmf0423/1aku0jt%40/5e916d68-6198-4a2a-b532-cd9f94492ef2.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/43c4ed85-7656-4dab-8187-db6012e83317.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/5996302f-9d59-4f2f-97f6-4784654feb1b.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/400188f4-ba8e-448a-bf45-66ee53a03f02.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/89332941-c435-4ba3-bc87-ff8a94c0c1db.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/8fdd1af5-4672-4175-8817-a1dcde20a260.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/ff269238-14db-41e9-acc1-d8fa04d5b6aa.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/dcab554a-9a23-4802-b516-6e4f6d95b352.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/5f5f9104-d982-4d0f-a84a-7205f804811b.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/d85f88da-f1ca-417d-a2f3-e099ecf2f5ce.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/c44e77a8-329a-4160-ae33-44e77063f64a.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/d73addef-f44d-4597-9902-4d62174cb9c4.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/62994f61-2514-4e93-878d-94d2d6f445dc.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/925cecc5-64db-4d35-8c17-38e6dc945bff.m3u
-#EXTINF:-1,
-http://mains.services/live/pmf0423/1aku0jt%40/935ca89f-201b-48fa-ad10-c2f2f99907d0.m3u
-
-
 #EXTINF:-1,
 https://ntv4.mov3.co/hls/ntv.m3u8
 
@@ -325,30 +266,10 @@ https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/250666
-
-SC
-
 #EXTINF:0,
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/533
 
 TV B
-
-#EXTINF:-1 
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/148479
-
-PLANETE
-
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/599310
-
-XPLORE
-
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/1062115
-
-Télé 21
 
 #EXTINF:-1 
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -364,11 +285,6 @@ Fig
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV 5
-
-#EXTINF:-1 tv5 mag
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/52135
-
-TV 5 M
 
 #EXTINF:-1
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
@@ -400,11 +316,6 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
 
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/146157
-
-NEZYM
-
 #EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/1e526810-b84d-4210-a026-05a72c83bd43.m3u
 
@@ -428,42 +339,8 @@ MFR
 #EXTINF:-1,
 http://mains.services/live/pmf0423/1aku0jt%40/aa48c012-bda1-48b5-8f1b-759f1e285b6c.m3u
 
-EIV 
+EIV
 
-#EXTINF:-1
-http://front-main.eagle-4k.me:80/a5n1qj2z7h/z7san35uxz/238
-
-S ORUE
-
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| CHÉRIE 25 FHD" tvg-logo="https://lo1.in/fr/cherir.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHÉRIE 25 FHD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/975
-
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| CHERIE 25 HD" tvg-logo="https://lo1.in/fr/cherir.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHERIE 25 HD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1030
-
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| CHÉRIE 25 HEVC" tvg-logo="https://lo1.in/fr/cherir.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHÉRIE 25 HEVC
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1003
-
-#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="FR| CHÉRIE 25 SD" tvg-logo="https://lo1.in/fr/cherir.png" group-title="EU | FRANCE DOCUMENTARY",FR| CHÉRIE 25 SD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/30187
-
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Comedie+ HD" tvg-logo="https://lo1.in/fr/Comedie+ HD.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Comedie+ HD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/31566
-
-#EXTINF:-1 tvg-id="teva.fr" tvg-name="FR| TEVA FHD" tvg-logo="https://lo1.in/fr/tvhdd.png" group-title="EU | FRANCE DIVERTISSEMENT",FR| TEVA FHD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/789
-
-#EXTINF:-1 tvg-id="" tvg-name="FR-REU| Paris PARIS remiere HD" tvg-logo="https://lo1.in/fr/parispr.png" group-title="EU | FRANCE DOM TOM ",FR-REU| Paris PARIS remiere HD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/31619
-
-#EXTINF:-1 tvg-id="mangas.fr" tvg-name="FR| MANGAS FHD" tvg-logo="https://lo1.in/fr/mag.png" group-title="EU | FRANCE ENFANTS",FR| MANGAS FHD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1053
-
-#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="FR| NRJ HITS FHD" tvg-logo="https://lo1.in/fr/nrkK.png" group-title="EU | FRANCE MUSIC ",FR| NRJ HITS FHD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1135
-
-#EXTINF:-1 tvg-id="cstarhitsfrance.fr" tvg-name="FR| CSTAR HITS FRANCE HD" tvg-logo="https://lo1.in/fr/cstrhf0.png" group-title="EU | FRANCE MUSIC ",FR| CSTAR HITS FRANCE HD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/1175
 
 
 
