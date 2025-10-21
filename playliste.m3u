@@ -260,30 +260,11 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV 5
 
-#EXTINF:-1
-https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
-
-W TRE
-
-#EXTINF:-1
-https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
-
-N TRE 
-
-#EXTINF:-1
-https://ertflix.akamaized.net/ertlive/ertnews2/default/playlist.m3u8
-
-2 N TRE
-
-#EXTINF:-1
-https://ertflix.akamaized.net/ertlive/ertnews3/default/playlist.m3u8
-
-3 N TRE
-
 #EXTINF:-1 
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
+
 
 
 
