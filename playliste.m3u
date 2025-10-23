@@ -267,50 +267,81 @@ BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: C STAR HITS France HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/cae0fe17afbd83a208ddb68f6a18e200.png" group-title="France",FR: C STAR HITS France HD
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302012.ts
 
-#EXTINF:-1 tvg-id="444724" tvg-name="FR: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: Eurosport 1 HD
+2E
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301898.ts
 
-#EXTINF:-1 tvg-id="54862" tvg-name="FR: Mangas HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b765ff65f607f8ac4bf64d08265742de.png" group-title="France ➾ Kids",FR: Mangas HD
+1SE
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301935.ts
 
-#EXTINF:-1 tvg-id="55950" tvg-name="FR: MCM HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65679ea45867f0d5035c43a7b543f08c.png" group-title="France ➾ Music",FR: MCM HD
+SAGNAM
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301860.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM POP HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f4b2006ffab949bf97b89ec370478aaa.png" group-title="France ➾ Music",FR: MCM POP HD
+MCM
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301861.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: MCM TOP HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/23644718e9f4d5d3e8e8abc7491340e0.png" group-title="France ➾ Music",FR: MCM TOP HD
+P MCM
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301862.ts
 
-#EXTINF:-1 tvg-id="459258" tvg-name="FR: Planete+ HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/6d382ebba67b8042f09491f4c0166bfe.png" group-title="France ➾ Documentary",FR: Planete+ HD
+T MCM
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301853.ts
 
-#EXTINF:-1 tvg-id="55845" tvg-name="FR: RFM TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cdef9aee38db38ace5eda5576d976e24.png" group-title="France",FR: RFM TV HD
+ETENALP
+
+#EXTINF:-1
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302053.ts
 
-#EXTINF:-1 tvg-id="55026" tvg-name="FR: RTS 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ddd04243be29f349404a0223d031e22f.svg" group-title="France ➾ LifeStyle",FR: RTS 1 HD
+VT MFR
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302148.ts
 
-#EXTINF:-1 tvg-id="459234" tvg-name="FR: RTS 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1d24a47ac986a04e24afd27129aa7802.svg" group-title="France ➾ LifeStyle",FR: RTS 2 HD
+1STR
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302149.ts
 
-#EXTINF:-1 tvg-id="55973" tvg-name="FR: Science & VIE TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e8084478272b41e2da845c571554bdc1.png" group-title="France ➾ Documentary",FR: Science & VIE TV HD
+2STR
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301855.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="FR: Serie CLUB HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/f4188a574992df9ca993b6cc2448102b.png" group-title="France ➾ Movie",FR: Serie CLUB HD
+V&S
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302107.ts
 
-#EXTINF:-1 tvg-id="443177" tvg-name="FR: TEVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2d55fb6de8a866fbaf612dc99721acbd.png" group-title="France",FR: TEVA HD
+C S
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302058.ts
 
-#EXTINF:-1 tvg-id="55899" tvg-name="FR: TREK HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/e9cdd3c09fdb5b37e6ee82e135daf6a1.png" group-title="France",FR: TREK HD
+AVET
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302060.ts
 
-#EXTINF:-1 tvg-id="56041" tvg-name="FR: Ushuaïa TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/fada87c6e15fac748982a598676cb960.png" group-title="France ➾ Nature",FR: Ushuaïa TV HD
+KERT
+
+#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
+
+VTU
+
 
 
 
