@@ -342,11 +342,36 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
 
 VTU
 
+#EXTINF:-1 tvg-id="Paris Premiere" tvg-name="FR: PARIS PREMIERE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/PARIS_PREMIERE.png" group-title="FR | DIVERTISSEMENT VIP",FR: PARIS PREMIERE
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/528
 
+*****************************************************************************************************************************************************************************************************************************************************************************
 
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="ES | TOP CANALES VIP",ES: TELECINCO
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/647
 
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="ES | TOP CANALES VIP",ES: LA 1
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/648
 
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="ES | TOP CANALES VIP",ES: LA 2
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/649
 
+#EXTINF:-1 tvg-id="0" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="ES | TOP CANALES VIP",ES: ANTENA 3
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/646
+
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="ES | TOP CANALES VIP",ES: LA SEXTA
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/650
+
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="ES | TOP CANALES VIP",ES: CUATRO
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/651
+
+***************************************************************************************************************************************************************************************************************************************************************************
+
+#EXTINF:-1 tvg-id="Histoire" tvg-name="FR: HISTOIRE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/HISTOIRE.png" group-title="FR | DOCUMENTAIRE VIP",FR: HISTOIRE
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/507
+
+#EXTINF:-1 tvg-id="Toute l Histoire" tvg-name="FR: TOUTE L'HISTOIRE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TOUTE_LHISTOIRE.png" group-title="FR | DOCUMENTAIRE VIP",FR: TOUTE L'HISTOIRE
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/516
 
 
 
