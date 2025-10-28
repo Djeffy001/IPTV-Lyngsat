@@ -37,6 +37,11 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 2
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV" tvg-logo="https://docdog.top/logo/countries/uk/itv1.png" group-title="UK | ENGLAND VIP",UK: VIP ITV
+http://vipforj.top:8080/VIP0176173538414492/11735384144745/1773
+
+3
+
 #EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
@@ -166,6 +171,16 @@ RTL Super
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
 1PVT
+
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal ➾ LifeStyle",PT: RTP 2 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316869.ts
+
+2PVT
+
+#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="PT: RTP 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal ➾ LifeStyle",PT: RTP 3 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/316870.ts
+
+3PVT
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -405,6 +420,7 @@ H
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/516
 
 TH
+
 
 
 
