@@ -209,7 +209,22 @@ TV5 CA
 #EXTINF:-1,
 http://1tv41.icu:8080/ggct0Q/809783/22990
 
-ABC
+CBA
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | CBS NEW YORK City, NY WCBS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a2876daeb92c212f8b6279a427c49d05.png" group-title="✯USA✯ CBS",USA | CBS NEW YORK City, NY WCBS HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/832632.ts
+
+SBC
+
+#EXTINF:-1 tvg-id="WNBC-DT.us" tvg-name="US: NBC NEW YORK WNBC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5530cd34b078b82adf6a47cb9bc9a12a.png" group-title="✯USA✯ NEWS",US: NBC NEW YORK WNBC TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/291497.ts
+
+CBN
+
+#EXTINF:-1 tvg-id="" tvg-name="USA | FOX New York City, NY WNYWⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONAL",USA | FOX New York City, NY WNYWⓧ
+http://ip96.uk:8080//live/H645668DH/7565848DHY/832735.ts
+
+XOF
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -372,6 +387,7 @@ http://vipforj.top:8080/VIP0176173538414492/11735384144745/507
 
 #EXTINF:-1 tvg-id="Toute l Histoire" tvg-name="FR: TOUTE L'HISTOIRE" tvg-logo="https://docdog.top/logo/countries/france/canal_plus/TOUTE_LHISTOIRE.png" group-title="FR | DOCUMENTAIRE VIP",FR: TOUTE L'HISTOIRE
 http://vipforj.top:8080/VIP0176173538414492/11735384144745/516
+
 
 
 
