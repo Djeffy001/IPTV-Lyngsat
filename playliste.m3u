@@ -37,11 +37,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 2
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP ITV" tvg-logo="https://docdog.top/logo/countries/uk/itv1.png" group-title="UK | ENGLAND VIP",UK: VIP ITV
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1773
-
-3
-
 #EXTINF:-1 
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
@@ -64,35 +59,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.
 
 **********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP RTE ONE" tvg-logo="https://docdog.top/logo/countries/uk/rteone.png" group-title="UK | ENGLAND VIP",UK: VIP RTE ONE
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1728
 
-I1
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP RTE TWO" tvg-logo="https://docdog.top/logo/countries/uk/rtetwo.png" group-title="UK | ENGLAND VIP",UK: VIP RTE TWO
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1729
-
-I2
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP VIRGIN MEDIA 1" tvg-logo="https://docdog.top/logo/countries/uk/virginmedia1.png" group-title="UK | ENGLAND VIP",UK: VIP VIRGIN MEDIA 1
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1748
-
-I3.1
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP VIRGIN MEDIA 2" tvg-logo="https://docdog.top/logo/countries/uk/virginmedia2.png" group-title="UK | ENGLAND VIP",UK: VIP VIRGIN MEDIA 2
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1749
-
-I3.2
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP VIRGIN MEDIA 3" tvg-logo="https://docdog.top/logo/countries/uk/virginmedia3.png" group-title="UK | ENGLAND VIP",UK: VIP VIRGIN MEDIA 3
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1750
-
-I3.3
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: VIP TG 4" tvg-logo="https://docdog.top/logo/countries/uk/tg4.png" group-title="UK | ENGLAND VIP",UK: VIP TG 4
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/1735
-
-I4
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1,
@@ -262,11 +229,6 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/291497.ts
 
 CBN
 
-#EXTINF:-1 tvg-id="" tvg-name="USA | FOX New York City, NY WNYWⓧ" tvg-logo="" group-title="✯USA✯ FOX REGIONAL",USA | FOX New York City, NY WNYWⓧ
-http://ip96.uk:8080//live/H645668DH/7565848DHY/832735.ts
-
-XOF
-
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1,
@@ -301,11 +263,6 @@ https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 #EXTINF:-1
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
-#EXTINF:0,
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/533
-
-TV B
-
 #EXTINF:-1 
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
@@ -322,16 +279,6 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:-1 
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302012.ts
-
-2E
-
-#EXTINF:-1 
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301898.ts
-
-1SE
 
 #EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301935.ts
@@ -384,11 +331,6 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/302107.ts
 C S
 
 #EXTINF:-1 
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302058.ts
-
-AVET
-
-#EXTINF:-1 
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302060.ts
 
 KERT
@@ -397,11 +339,6 @@ KERT
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
 
 VTU
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/528
-
-PP
 
 *****************************************************************************************************************************************************************************************************************************************************************************
 
@@ -436,16 +373,6 @@ http://vipforj.top:8080/VIP0176173538414492/11735384144745/651
 LA 4
 
 ***************************************************************************************************************************************************************************************************************************************************************************
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/507
-
-H
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/516
-
-TH
 
 
 
