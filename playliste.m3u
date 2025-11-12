@@ -340,6 +340,30 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
 
 VTU
 
+#EXTINF:-1 tvg-id="443096" tvg-name="FR: TV Breizh HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/60a15195d4e288cf44b1ad5e481c38c4.png" group-title="France ➾ Movie",FR: TV Breizh HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302114.ts
+
+TVB
+
+#EXTINF:-1 tvg-id="459200" tvg-name="FR: Histoire TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3257308c1b57ea167f7536283981880f.png" group-title="France ➾ Documentary",FR: Histoire TV HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/301849.ts
+
+H
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: Toute Histoire HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/374d8e0304f4611b86b441ba88196f2d.png" group-title="France ➾ Documentary",FR: Toute Histoire HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/301856.ts
+
+TTH
+
+#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14315b8daa23b332e9db88c6a61b692d.png" group-title="France ➾ LifeStyle",FR: Paris Premiere HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302143.ts
+
+#EXTINF:-1 tvg-id="443177" tvg-name="FR: TEVA HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2d55fb6de8a866fbaf612dc99721acbd.png" group-title="France",FR: TEVA HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/302058.ts
+
+#EXTINF:-1 tvg-id="444724" tvg-name="FR: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: Eurosport 1 HD
+http://ip96.uk:8080//live/H645668DH/7565848DHY/301898.ts
+
 *****************************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 
@@ -373,6 +397,7 @@ http://vipforj.top:8080/VIP0176173538414492/11735384144745/651
 LA 4
 
 ***************************************************************************************************************************************************************************************************************************************************************************
+
 
 
 
