@@ -1,58 +1,58 @@
 #EXTM3U
 
-#EXTINF:-1  #EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: RTBF1 HD
+#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: RTBF1 HD
 http://41.205.93.154/LA-UNE/mpegts
 
 La 1
 
-#EXTINF:-1 tvg-name="PT: AB3"
+#EXTINF:-1 tvg-name="FR: AB3 "  ,FR: AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
 AB 3
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: La Quatre "  ,FR: LA4
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 
 4 (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RTL TVI "  ,FR: RTL-tvi
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 TVI
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: LN24 "  ,FR: Le Nord 24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
 Hélène
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-name="FR: BBC1 "  ,FR: BBC1
 http://1tv41.icu:8080/ggct0Q/809783/53649
 
 1
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: BBC2 "  ,FR: BBC2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
 2
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Ch4 "  ,FR: Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
 C4
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Ch 5 "  ,FR: Channel 5
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
 
 C5
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-name="FR: BBC3 "  ,FR: BBC3
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 3
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-name="FR: BBC4 "  ,FR: BBC4
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
 4
@@ -62,152 +62,150 @@ https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: TVE1 "  ,FR: TVE1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
 
 1 
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: TVE2 "  ,FR: TVE2
 https://ztnr.rtve.es/ztnr/3987218.m3u8
 
 2
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: 3CAT "  ,FR: 3CAT
 https://directes-tv-int.3catdirectes.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: 24 HORAS "  ,FR: 24 HORAS
 https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vlldndmow4yre/24HES.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: CLAN "  ,FR: Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1, tvg-name="FR: TVP1 "  ,FR: tvp1
 http://1tv41.icu:8080/ggct0Q/809783/164792
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RAI UNO "  , RAI 1
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
 
 Rai 1 HD (720p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RAI DUE "  , RAI 2
 http://1tv41.icu:8080/ggct0Q/809783/212896
 
 RAI 2
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RAI TRE "  , RAI 3
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
 Rai 3 (720p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RETE QUATRO "  , RETE 4
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
 
 Rete 4 HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: CANALE CINQO "  , CANALE 5
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 
 Canale 5 HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RAI NEWS 24 "  , RAI N. 24
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
 Rai News 24 HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: LA7 "  , la7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 
 LA7 HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RAI QUATRE "  , RAI 4
 http://1tv41.icu:8080/ggct0Q/809783/212898
 
 RAI 4
 
-#EXTINF:0,
+#EXTINF:-1 tvg-name="FR: ITALIA UNO "  , Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
 1ailati
 
-#EXTINF:0,
+#EXTINF:-1 tvg-name="FR: TG COM 24 "  , TG24
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 
 42 moc gt
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: SUPER! "  , Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 Super!
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RTL "  , Rtl
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
 RTL HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Zwei "  , Rtl2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
 
 RTL Zwei HD (1080p)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RTL SUPER "  , Rtl Super
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 
 RTL Super
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: TVP1"  , TVP1
 https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
-1PVT
-
-#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="PT: RTP 2 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-05/8a5bcde9b3bd3182948bc4c10e4673a4.png" group-title="Portugal ➾ LifeStyle",PT: RTP 2 HD
+#EXTINF:-1 tvg-name="FR: TVP2 "  , TVP2
 http://ip96.uk:8080//live/H645668DH/7565848DHY/316869.ts
 
 2PVT
 
-#EXTINF:-1 tvg-id="RTP.3.HD.pt" tvg-name="PT: RTP 3 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/f7178a16c0b410328e6590e1fd25a937.png" group-title="Portugal ➾ LifeStyle",PT: RTP 3 HD
+#EXTINF:-1 tvg-name="FR: TVP3 "  , TVP3
 http://ip96.uk:8080//live/H645668DH/7565848DHY/316870.ts
 
 3PVT
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: TWA "  , Twa
 http://1tv41.icu:8080/ggct0Q/809783/57497
 
-TVA Montreal FHD (B)
 
-#EXTINF:-1 
+
+#EXTINF:-1 tvg-name="FR: ICI RDI "  , Ici Rdi
 http://1tv41.icu:8080/ggct0Q/809783/164369
 
 ICI RDI (D)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: LCN "  , LCN
 http://1tv41.icu:8080/ggct0Q/809783/57968
 
 LCN (E)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: TFO "  , TFO
 http://1tv41.icu:8080/ggct0Q/809783/57495
 
 TFO HD (R)
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: ICI TELE QUEBEC "  , ICI TV QUEBEC
 http://1tv41.icu:8080/ggct0Q/809783/57493
 
 ICI Tele Quebec HD (D) 
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Canal vie "  , Canal Vie
 http://1tv41.icu:8080/ggct0Q/809783/116947
 
 Canal Vie HD
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: TV5 CA "  , TV5 CA
 http://1tv41.icu:8080/ggct0Q/809783/57288
 
 TV5 CA 
@@ -231,100 +229,100 @@ CBN
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-name="FR: TRT1 "  , TRT1
 https://trt.daioncdn.net/trt-1/master.m3u8?app=web
 
 TRT 1 (1080p)
 
-#EXTINF:-1,
+#EXTINF:-1 tvg-name="FR: TRT12"  , TRT2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 TRT 2 (720p)
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: TRT COCUQ "  , TRT COCUQ
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 KUCOC TRT
 
 ************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: AB1 "  , AB1
 https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: CanalJ "  , Canal J
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: BFM2 "  , BFM2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: 20 MINUTES TV "  , 20" TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 
 IDF1
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: TV5 iNFOS "  , TV5 Infos
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV 5
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: IRIB1 "  , IRIB1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: MANGAS "  , Mangas
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301935.ts
 
 SAGNAM
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: MCM "  , mcm
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301860.ts
 
 MCM
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: MCM POP "  , Mcm Pop
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301861.ts
 
 P MCM
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: MCM TOP "  , Mcm Top
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301862.ts
 
 T MCM
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: PLANETE "  , Planète
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301853.ts
 
 ETENALP
 
-#EXTINF:-1
+#EXTINF:-1 tvg-name="FR: RFM TV "  , Rfm TV
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302053.ts
 
 VT MFR
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RTS1 "  , Rts1
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302148.ts
 
 1STR
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: RTS2 "  , Rts2
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302149.ts
 
 2STR
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Science & Vie tv "  , Science & Vie tv
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301855.ts
 
 V&S
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: Série Club"  , Série Club
 http://ip96.uk:8080//live/H645668DH/7565848DHY/302107.ts
 
 C S
 
-#EXTINF:-1 
+#EXTINF:-1 tvg-name="FR: U TV "  , U TV
 http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
 
 VTU
@@ -342,37 +340,6 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/301898.ts
 
 *****************************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/647
-
-TELE 5
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/648
-
-LA 1
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/649
-
-LA 2
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/646
-
-A3
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/650
-
-LA 6
-
-#EXTINF:-1 
-http://vipforj.top:8080/VIP0176173538414492/11735384144745/651
-
-LA 4
-
-***************************************************************************************************************************************************************************************************************************************************************************
 
 
 
