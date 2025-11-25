@@ -12,7 +12,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
 
-
+#EXTINF:0,AL24 News (1080p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
 
 *************************************************************************************************************************************************************************************************************************************************************
 
@@ -273,6 +275,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
