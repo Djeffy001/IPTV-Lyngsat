@@ -110,10 +110,6 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTVLCOPT:network-caching=1000
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 
-#EXTINF:0,TV SLO 1 HD (1080p) [Not 24/7]
-#EXTVLCOPT:network-caching=1000
-http://23.88.66.93/SLO1/index.m3u8
-
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name="FR: RAI UNO "  , RAI 1
@@ -204,6 +200,11 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTINF:0,Polsat News (720p) [Geo-blocked]
 #EXTVLCOPT:network-caching=1000
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
+
+#EXTINF:0,TV SLO 1 HD (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://23.88.66.93/SLO1/index.m3u8
+
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name="FR: TRT1 "  , TRT1
@@ -272,6 +273,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
