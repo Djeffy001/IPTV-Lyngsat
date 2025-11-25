@@ -102,6 +102,13 @@ https://d32rw80ytx9uxs.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1, tvg-name="FR: CLAN "  ,FR: Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 
+#EXTINF:0,ETB 1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:0,ETB 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
 ***********************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name="FR: RAI UNO "  , RAI 1
@@ -260,6 +267,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
