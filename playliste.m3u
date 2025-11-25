@@ -43,10 +43,7 @@ Hélène
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-name="FR: BBC1 "  ,FR: BBC1
-http://1tv41.icu:8080/ggct0Q/809783/53649
 
-1
 
 #EXTINF:-1 tvg-name="FR: BBC2 "  ,FR: BBC2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
@@ -70,10 +67,6 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 
 #EXTINF:-1 tvg-name="FR: BBC4 "  ,FR: BBC4
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
-
-4
-
-**********************************************************************************************************************************************************************************************************************************************************
 
 
 ***********************************************************************************************************************************************************************************************************************************************************
@@ -201,59 +194,6 @@ http://ip96.uk:8080//live/H645668DH/7565848DHY/316870.ts
 
 3PVT
 
-***********************************************************************************************************************************************************************************************************************************************************
-
-#EXTINF:-1 tvg-name="FR: TWA "  , Twa
-http://1tv41.icu:8080/ggct0Q/809783/57497
-
-
-
-#EXTINF:-1 tvg-name="FR: ICI RDI "  , Ici Rdi
-http://1tv41.icu:8080/ggct0Q/809783/164369
-
-ICI RDI (D)
-
-#EXTINF:-1 tvg-name="FR: LCN "  , LCN
-http://1tv41.icu:8080/ggct0Q/809783/57968
-
-LCN (E)
-
-#EXTINF:-1 tvg-name="FR: TFO "  , TFO
-http://1tv41.icu:8080/ggct0Q/809783/57495
-
-TFO HD (R)
-
-#EXTINF:-1 tvg-name="FR: ICI TELE QUEBEC "  , ICI TV QUEBEC
-http://1tv41.icu:8080/ggct0Q/809783/57493
-
-ICI Tele Quebec HD (D) 
-
-#EXTINF:-1 tvg-name="FR: Canal vie "  , Canal Vie
-http://1tv41.icu:8080/ggct0Q/809783/116947
-
-Canal Vie HD
-
-#EXTINF:-1 tvg-name="FR: TV5 CA "  , TV5 CA
-http://1tv41.icu:8080/ggct0Q/809783/57288
-
-TV5 CA 
-
-***********************************************************************************************************************************************************************************************************************************************************
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | ABC New York, NY WABCⓧ" tvg-logo="" group-title="✯USA✯ ABC",USA | ABC New York, NY WABCⓧ
-http://ip96.uk:8080//live/H645668DH/7565848DHY/832525.ts
-
-CBA
-
-#EXTINF:-1 tvg-id="" tvg-name="USA | CBS NEW YORK City, NY WCBS HD" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon_api/a2876daeb92c212f8b6279a427c49d05.png" group-title="✯USA✯ CBS",USA | CBS NEW YORK City, NY WCBS HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/832632.ts
-
-SBC
-
-#EXTINF:-1 tvg-id="WNBC-DT.us" tvg-name="US: NBC NEW YORK WNBC TV HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5530cd34b078b82adf6a47cb9bc9a12a.png" group-title="✯USA✯ NEWS",US: NBC NEW YORK WNBC TV HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/291497.ts
-
-CBN
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -300,73 +240,7 @@ BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-name="FR: MANGAS "  , Mangas
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301935.ts
 
-SAGNAM
-
-#EXTINF:-1 tvg-name="FR: MCM "  , mcm
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301860.ts
-
-MCM
-
-#EXTINF:-1 tvg-name="FR: MCM POP "  , Mcm Pop
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301861.ts
-
-P MCM
-
-#EXTINF:-1 tvg-name="FR: MCM TOP "  , Mcm Top
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301862.ts
-
-T MCM
-
-#EXTINF:-1 tvg-name="FR: PLANETE "  , Planète
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301853.ts
-
-ETENALP
-
-#EXTINF:-1 tvg-name="FR: RFM TV "  , Rfm TV
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302053.ts
-
-VT MFR
-
-#EXTINF:-1 tvg-name="FR: RTS1 "  , Rts1
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302148.ts
-
-1STR
-
-#EXTINF:-1 tvg-name="FR: RTS2 "  , Rts2
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302149.ts
-
-2STR
-
-#EXTINF:-1 tvg-name="FR: Science & Vie tv "  , Science & Vie tv
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301855.ts
-
-V&S
-
-#EXTINF:-1 tvg-name="FR: Série Club"  , Série Club
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302107.ts
-
-C S
-
-#EXTINF:-1 tvg-name="FR: U TV "  , U TV
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301949.ts
-
-VTU
-
-#EXTINF:-1 tvg-id="443096" tvg-name="FR: TV Breizh HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/60a15195d4e288cf44b1ad5e481c38c4.png" group-title="France ➾ Movie",FR: TV Breizh HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302114.ts
-
-TVB
-
-#EXTINF:-1 tvg-id="" tvg-name="FR: Paris Premiere HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/14315b8daa23b332e9db88c6a61b692d.png" group-title="France ➾ LifeStyle",FR: Paris Premiere HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/302143.ts
-
-#EXTINF:-1 tvg-id="444724" tvg-name="FR: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: Eurosport 1 HD
-http://ip96.uk:8080//live/H645668DH/7565848DHY/301898.ts
-
-*****************************************************************************************************************************************************************************************************************************************************************************
 
 
 
