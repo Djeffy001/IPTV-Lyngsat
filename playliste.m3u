@@ -235,9 +235,6 @@ https://viamotionhsi.netplus.ch/live/eds/escales/browser-HLS8/escales.m3u8
 #EXTVLCOPT:network-caching=1000
 https://cdn3.wowza.com/1/OVRrOWxXUEswS2Yv/eGVxSWZy/hls/live/playlist.m3u8
 
-
-
-
 #EXTINF:-1 tvg-name="FR: BFM2 "  , BFM2
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
 
@@ -251,12 +248,17 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV 5
 
+#EXTINF:0,RT France (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
 #EXTINF:-1 tvg-name="FR: IRIB1 "  , IRIB1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
