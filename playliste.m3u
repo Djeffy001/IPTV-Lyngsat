@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 
 *************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 " tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="France ➾ Sports",FR: RTBF1 HD
+#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 "  group-title="France ➾ Sports",FR: RTBF1 HD
 http://41.205.93.154/LA-UNE/mpegts
 
 La 1
@@ -225,6 +225,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
