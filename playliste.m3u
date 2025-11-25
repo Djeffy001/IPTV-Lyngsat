@@ -226,6 +226,9 @@ BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:0,Planete+ (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 
 
