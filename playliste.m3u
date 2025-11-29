@@ -14,20 +14,14 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 
 *************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 "
+#EXTINF:-1 tvg-name="FR: RTBF1 " , RTBF1
 http://41.205.93.154/LA-UNE/mpegts
-
-La 1
 
 #EXTINF:-1 tvg-name="FR: AB3 "  ,FR: AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-AB 3
-
 #EXTINF:-1 tvg-name="FR: La Quatre "  ,FR: LA4
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-
-4 (1080p)
 
 #EXTINF:-1 tvg-name="FR: RTL TVI "  ,FR: RTL-tvi
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
@@ -397,6 +391,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
