@@ -32,12 +32,60 @@ https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/9
 #EXTINF:-1 tvg-name="FR: RTL TVI "  ,FR: RTL-tvi
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-TVI
-
 #EXTINF:-1 tvg-name="FR: LN24 "  ,FR: Le Nord 24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
-Hélène
+#EXTINF:0,RSI La 1 (720p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
+
+#EXTINF:0,RSI La 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+
+#EXTINF:0,RT France (1080p) [Geo-blocked]
+#EXTVLCOPT:network-caching=1000
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+
+#EXTINF:0,RTL9
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
+
+#EXTINF:0,RTS 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+
+#EXTINF:0,RTS 2 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
+
+#EXTINF:0,SRF 1 (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
+
+#EXTINF:0,SRF info HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
+
+#EXTINF:0,SRF zwei (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
+
+#EXTINF:0,ORF 1 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
+
+#EXTINF:0,ORF 2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://strm.hdtvizlecanli.com/live/orf2.m3u8
+
+#EXTINF:0,ORF III HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+
+#EXTINF:0,ORF Kids (720p)
+#EXTVLCOPT:network-caching=1000
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -166,6 +214,21 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 Super!
 
 ***********************************************************************************************************************************************************************************************************************************************************
+#EXTINF:0,Das Erste HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:0,ZDF HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+
+#EXTINF:0,3sat HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+
+#EXTINF:0,KiKA HD
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 
 #EXTINF:-1 tvg-name="FR: RTL "  , Rtl
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
@@ -199,9 +262,66 @@ https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
 #EXTVLCOPT:network-caching=1000
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
 
+***********************************************************************************************************************************************************************************************************************************************************
+
+#EXTINF:0,DRTV (1080p)
+#EXTVLCOPT:network-caching=1000
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+
+#EXTINF:0,Duna (720p)
+#EXTVLCOPT:network-caching=1000
+https://viamotionhsi.netplus.ch/live/eds/duna/browser-dash/duna.mpd
+
 #EXTINF:0,TV SLO 1 HD (1080p) [Not 24/7]
 #EXTVLCOPT:network-caching=1000
 http://23.88.66.93/SLO1/index.m3u8
+
+#EXTINF:0,TV SLO 2 HD (1080p) [Not 24/7]
+#EXTVLCOPT:network-caching=1000
+http://23.88.66.93/SLO2/index.m3u8
+
+#EXTINF:0,ČT 1
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+
+#EXTINF:0,ČT 2
+#EXTVLCOPT:network-caching=1000
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
+
+#EXTINF:0,ČT24 (1080p)
+#EXTVLCOPT:network-caching=1000
+
+#EXTINF:0,ETV (720p)
+#EXTVLCOPT:network-caching=1000
+https://sb.err.ee/live/etv.m3u8
+
+#EXTINF:0,ETV2 (720p)
+#EXTVLCOPT:network-caching=1000
+https://sb.err.ee/live/etv2.m3u8
+
+#EXTINF:0,ETV+ (720p)
+#EXTVLCOPT:network-caching=1000
+https://sb.err.ee/live/etvpluss.m3u8
+
+#EXTINF:0,MTV Uutiset (720p)
+#EXTVLCOPT:network-caching=1000
+https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
+
+#EXTINF:0,HRT 1 HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+
+#EXTINF:0,HRT 2 HD (1080p)
+#EXTVLCOPT:network-caching=1000
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+
+#EXTINF:0,HRT 3 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+
+#EXTINF:0,HRT 4 HD (720p)
+#EXTVLCOPT:network-caching=1000
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -274,6 +394,15 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#EXTINF:0,ERT 1 Ⓖ
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.m3u8
+#EXTINF:0,ERT 2 Ⓖ
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
+#EXTINF:0,ERT 3 Ⓖ
+https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
+#EXTINF:0,ERT World Ⓖ
+https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8
 
 
 
