@@ -1,20 +1,20 @@
 #EXTM3U
 
-#EXTINF:0,Sud Radio
+#EXTINF:0, Sud Radio
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
 
-#EXTINF:0,RTL2
+#EXTINF:0, RTL2
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
 
-#EXTINF:0,Fun Radio
+#EXTINF:0, Fun Radio
 #EXTVLCOPT:network-caching=1000
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
 
 *************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 "  group-title="France ➾ Sports",FR: RTBF1 HD
+#EXTINF:-1 tvg-id="444724" tvg-name="FR: RTBF1 "
 http://41.205.93.154/LA-UNE/mpegts
 
 La 1
@@ -34,6 +34,12 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
 #EXTINF:-1 tvg-name="FR: LN24 "  ,FR: Le Nord 24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL Télé Lëtzebuerg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/640px-RTL_Luxembourg_2023.svg.png" tvg-id="RTLTeleLuxembourg.lu" group-title="Luxembourg",RTL Télé Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTL Zwee" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/RTL_Zwee_2023.svg/1024px-RTL_Zwee_2023.svg.png" tvg-id="RTLTeleLuxembourg.lu" group-title="Luxembourg",RTL Zwee
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
 
 #EXTINF:0,RSI La 1 (720p)
 #EXTVLCOPT:network-caching=1000
@@ -383,10 +389,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
 TV 5
 
-#EXTINF:0,RT France (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-
 ************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name="FR: IRIB1 "  , IRIB1
@@ -395,15 +397,6 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-#EXTINF:0,ERT 1 Ⓖ
-https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/index.m3u8
-#EXTINF:0,ERT 2 Ⓖ
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:0,ERT 3 Ⓖ
-https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
-#EXTINF:0,ERT World Ⓖ
-https://ertflix.akamaized.net/ertlive/ertworld/default/index.m3u8
 
 
 
