@@ -76,6 +76,9 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/191095
 #EXTINF:-1 tvg-name="FR: BBC2 "  ,FR: BBC2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
+#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="EU | UK GENERAL ",UK| ITV 1 HD
+http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/191155
+
 #EXTINF:-1 tvg-name="FR: Ch4 "  ,FR: Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
 
@@ -320,6 +323,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
