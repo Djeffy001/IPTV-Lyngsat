@@ -43,10 +43,6 @@ https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 
-#EXTINF:0,RT France (1080p) [Geo-blocked]
-#EXTVLCOPT:network-caching=1000
-https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
-
 #EXTINF:0,RTL9
 #EXTVLCOPT:network-caching=1000
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
@@ -391,6 +387,7 @@ https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 BIRI
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
