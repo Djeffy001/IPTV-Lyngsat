@@ -11,25 +11,25 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 
 *************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-name="FR: RTBF1 " , RTBF1
+#EXTINF:-1 tvg-name=" RTBF1 " group-title="Belgique" , RTBF1
 http://41.205.93.154/LA-UNE/mpegts
 
-#EXTINF:-1 tvg-id="Tipik.be@SD" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Undefined",Tipik
+#EXTINF:-1 tvg-id="Tipik.be@SD" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Belgique",Tipik
 http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
 
-#EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="General",La Trois
+#EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="Belgique",La Trois
 http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 
-#EXTINF:-1 tvg-name="FR: AB3 "  ,FR: AB3
+#EXTINF:-1 tvg-name="FR: AB3 " group-title="Belgique" , AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="FR: La Quatre "  ,FR: LA4
+#EXTINF:-1 tvg-name="FR: La Quatre " group-title="Belgique" , LA4
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 
-#EXTINF:-1 tvg-name="FR: RTL TVI "  ,FR: RTL-tvi
+#EXTINF:-1 tvg-name="FR: RTL TVI " group-title="Belgique" , RTL-tvi
 https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 
-#EXTINF:-1 tvg-name="FR: LN24 "  ,FR: Le Nord 24
+#EXTINF:-1 tvg-name="FR: LN24 " group-title="Belgique" , Le Nord 24
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 
 #EXTINF:-1 tvg-name="RTL Télé Lëtzebuerg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/640px-RTL_Luxembourg_2023.svg.png" tvg-id="RTLTeleLuxembourg.lu" group-title="Luxembourg",RTL Télé Lëtzebuerg
@@ -329,6 +329,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
