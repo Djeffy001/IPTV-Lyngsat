@@ -14,11 +14,11 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funr
 #EXTINF:-1 tvg-name="FR: RTBF1 " , RTBF1
 http://41.205.93.154/LA-UNE/mpegts
 
-#EXTINF:-1 tvg-name="Tipik" tvg-logo="https://i.imgur.com/PVbVj8o.png" tvg-id="Tipik.be" group-title="Belgium",Tipik
+#EXTINF:-1 tvg-id="Tipik.be@SD" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Undefined",Tipik
+http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
 
-
-#EXTINF:-1 tvg-name="La Trois" tvg-logo="https://i.imgur.com/kC3pJtA.png" tvg-id="LaTrois.be" group-title="Belgium",La Trois
-
+#EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="General",La Trois
+http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 
 #EXTINF:-1 tvg-name="FR: AB3 "  ,FR: AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
@@ -329,6 +329,7 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
