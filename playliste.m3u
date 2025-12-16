@@ -9,6 +9,36 @@ https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2
 #EXTINF:0, Fun Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
 
+#EXTINF:-1 tvg-name="FR: AB1 "  , AB1
+https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
+
+#EXTINF:-1 tvg-name="FR: CanalJ "  , Canal J
+https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
+
+#EXTINF:0,Planete+ (1080p)
+https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
+
+#EXTINF:-1 tvg-name="FR: BFM2 "  , BFM2
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
+
+#EXTINF:-1 tvg-name="FR: 20 MINUTES TV "  , 20" TV
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+
+#EXTINF:-1 tvg-name="FR: TV5 iNFOS "  , TV5 Infos
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 RADIO TV
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnewsprime-clair-hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
+https://static.lefigaro.fr/secom/tnt.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE",FUN RADIO TV BE
+https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
+
 *************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name=" RTBF1 " group-title="Belgique" , RTBF1
@@ -23,7 +53,7 @@ http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 #EXTINF:-1 tvg-name="FR: AB3 " group-title="Belgique" , AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
 
-#EXTINF:-1 tvg-name="FR: La Quatre " group-title="Belgique" , LA4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg", LA QUATRE
 https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
 
 #EXTINF:-1 tvg-name="FR: RTL TVI " group-title="Belgique" , RTL-tvi
@@ -305,266 +335,13 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 
 ************************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-name="FR: AB1 "  , AB1
-https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
-
-#EXTINF:-1 tvg-name="FR: CanalJ "  , Canal J
-https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
-
-#EXTINF:0,Planete+ (1080p)
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
-
-#EXTINF:-1 tvg-name="FR: BFM2 "  , BFM2
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?end=END&start=LIVE
-
-#EXTINF:-1 tvg-name="FR: 20 MINUTES TV "  , 20" TV
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-
-#EXTINF:-1 tvg-name="FR: TV5 iNFOS "  , TV5 Infos
-https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
-
-************************************************************************************************************************************************************************************************************************************************************
-
 #EXTINF:-1 tvg-name="FR: IRIB1 "  , IRIB1
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 RADIO TV
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/misc/radio/europe-1-dm.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnewsprime-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2
-https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5j6DZrt/20mn.png",20 MINUTES TV IDF
-https://live-20minutestv.digiteka.com/1961167769/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hcPj99k/fgro.png",LE FIGARO IDF
-https://static.lefigaro.fr/secom/tnt.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kckRLh5/bfm.png",BFM TV (backup)
-https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM2/index.m3u8?start=LIVE&end=END
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png",BFM 2 (backup)
-https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/mytf1/lci.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zfcrrr1/lci.png",LCI (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/lci.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-ios-fhd-clair/cnews-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-ad-hd/hls-v3-hd-clair/cnews-clair-ad-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnews-clair-ad-hd/hls-ios-fhd-clair/cnews-clair-ad-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://hls-m015.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qY6w8ds/cnews.png",CNEWS (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-dm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/cnews-prime-dm.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
-https://hls-m015.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D1a569a48e47690c700c0f71662c87679~hmac%3D6d2114baa9bb694f530073a9f707530612577a89d4d0a36aaa72374fa9e12049/live/disk/cnewsprime-clair-hd/hls-ios-fhd-clair/cnewsprime-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
-https://hls-m015.p-cdnlive-edge020411-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/cnewsprime-clair-hd/hls-v3-hd-clair/cnewsprime-clair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
-https://raw.githubusercontent.com/schumijo/iptv/main/playlists/canalplus/cnews_prime.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/93fjshzB/cnsprme.png",CNEWS PRIME (backup)
-https://raw.githubusercontent.com/SebTV-prod/streams/refs/heads/main/ressources/dm/py/hls/cnewsprime.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Zp6fdRMg/Eur1rd.png",EUROPE 1 RADIO TV (backup)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/canalplus/europe1tv-clair-hd.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",FRANCE LA 1ÈRE (PLAYOUT)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/fr1.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE MOYEN-ORIENT [geo-area]
-https://ott.tv5monde.com/Content/HLS/Live/channel(orient)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE AFRIQUE [geo-area]
-https://ott.tv5monde.com/Content/HLS/Live/channel(afrique)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE ASIE SUD-EST [geo-area]
-https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x8YnkQ2/tv5.png",TV5MONDE PACIFIQUE [geo-area]
-https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ftYS2bk/CANAL-logo.png",CANAL+ EN CLAIR (backup)
-https://hls-m005.p-cdnlive-edge020311-dual.scy.canalplus-cdn.net/__token__id%3D30d0283c7e891418deaddd2079712aaa~hmac%3Db2612e5607aecd3745717271a89b4c9f30d655071475de4667bf4819c57cd756/live/disk/canalplusclair-hd/hls-ios-fhd-clair/canalplusclair-hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 CH/SWISS (backup)
-https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-dash/m6hd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png",NRJ 12 [OUT]
-https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6spXX2y/nrj12.png" user-agent="SmartOs Tv",NRJ 12 [OUT]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/rtlm6/nrj12.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
-https://tvradiozap.eu/tools/dm-m3u8.php/x5gv5rr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cQbcrGZ/c8.png",C8 [OUT]
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/C8.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup SD)
-error: No playable streams found on this URL: https://www.tf1.fr/tf1/direct
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup BD_LQ)
-https://live-tf1-hls.cdn-0.diff.tf1.fr/no/out/v1/780542f516f143fc8ad9bf14622316e7/tf1-cmaf/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
-https://raw.githubusercontent.com/LeBazarDeBryan/XTVZ_/refs/heads/main/Stream/Live/TF1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/main/fr/videotf1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BBpR1Wx/tf1.png",TF1 (backup)
-http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
-https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/fr/videof2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxWtcTm/fr2bl.png",FRANCE 2 (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr2nv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8PjbJ4/fr3bl.png",FRANCE 3 (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr3nv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VgcrtZ5/fr4blok.png",FRANCE 4 (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr4nv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N9d4yXt/fr5bl.png",FRANCE 5 (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py2/fr5nv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE (backup)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/ftv/py/frarte.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png",ARTE (backup)
-https://raw.githubusercontent.com/schumijo/iptv/refs/heads/main/playlists/mytf1/arte.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png" user-agent="VAVOO/1.0" referer="https://vavoo.to/",W9 (test)
-https://joaquinito02.es/vavoo/128046615.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
-http://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (backup)
-https://live.tntdirect.tv/9CM2pADCxF/w5BA32MP6P/6.ts?extension=m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wgJTdGY/m6.png",M6 (test)
-http://gratuittv.free.fr/Files/m6/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LNRd253/w9.png",W9 (test)
-https://live20.bozztv.com/dvrfl06/astv/astv-w9tv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE",FUN RADIO TV BE
-https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m5R33Y1n/Futura.jpg",SCIENCES ET VIE
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=14172
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VvRpRty/myzen.png",MY ZEN
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1mar.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1gua.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guy.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1may.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reu.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1nc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE POLYNÉSIE [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1pol.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE WALLIS FUTUNA [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wf.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON [geo-area]
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MARTINIQUE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1marm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUADELOUPE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guam.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE GUYANE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1guym.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE MAYOTTE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1maym.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE RÉUNION (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1reum.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE N.CALÉDONIE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1ncm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE POLYNÉSIE (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1polm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE WALLIS FUTUNA (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1wfm.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GkjLyFv/la1ereom.png",LA 1ÈRE SAINT-PIERRE MIQUELON (news only)
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/fr1spmm.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg",QUATRE LIÈGE
-https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZphSkW0n/qu4trebe.jpg",QUATRE LIÈGE
-https://tvlocales-live.freecaster.com/95d2f6eb-6f01-4d1d-8543-d14966de7b04/95d2f6eb-6f01-4d1d-8543-d14966de7b04.isml/master.m3u8
 
 
 
