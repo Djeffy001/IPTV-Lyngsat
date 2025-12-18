@@ -39,6 +39,16 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-name="FR: TV5 iNFOS "  , TV5 Infos
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="430" tvg-id="Eurosport.1.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?@iprtlk
+http://178.23.88.55/Eurosport_1/index.m3u8
+http://iptv.tvzatak.uk/HxnSbJgDPX/bhYQUR31B/seyJ1cmwiOiJodHRwOi8vN2FkMzhiZTAub3R0b2xvay5uZXQvaXB0di9ZNUdHVDNQV1hYTk05VkU5OThONEZFQUgvMjI4L2luZGV4Lm0zdTgiLCJpZCI6ODIwfQ%3D%3D/fast
+
 *************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name=" RTBF1 " group-title="Belgique" , RTBF1
@@ -112,8 +122,9 @@ http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/191095
 #EXTINF:-1 tvg-name="FR: BBC2 "  ,FR: BBC2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
 
-#EXTINF:-1 tvg-id="itv1.uk" tvg-name="UK| ITV 1 HD" tvg-logo="https://lo1.in/uk/itv0.png" group-title="EU | UK GENERAL ",UK| ITV 1 HD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/191155
+#EXTINF:-1 tvg-chno="" cuid="301" tvg-name="ITV1" tvg-id="ITV1.HD.uk" tvg-logo="https://logo.m3uassets.com/itv1.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Undefined 🌎",❖ ITV 1 🇬🇧
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+http://92.118.251.84:8080/itv1hd/index.m3u8
 
 #EXTINF:-1 tvg-name="FR: Ch4 "  ,FR: Channel 4
 https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
@@ -127,7 +138,24 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTINF:-1 tvg-name="FR: BBC4 "  ,FR: BBC4
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 
+#EXTINF:-1 tvg-chno="" cuid="138" tvg-name="CBS News New York 🇺🇸" tvg-id="WCBS-DT.us_locals1" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ CBS News New York 🇺🇸
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="" cuid="119" tvg-name="FOX 12 New York 🇺🇸" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://canvas-lb.tubitv.com/opts/-7LfJWOBjXLPNQ==/08fde41e-4252-484f-8b51-17124415b90c/CHgQeDoFMS4xLjVAAQ==" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ News12  New York 🇺🇸
+https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8?@iprtlk
+
 ***********************************************************************************************************************************************************************************************************************************************************
+
+#EXTINF:-1 tvg-chno="" cuid="315" tvg-name="La 1 🇪🇸" tvg-id="La.1.HD.es" tvg-logo="https://logo.m3uassets.com/la1.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Undefined 🌎",❖ La 1 🇪🇸
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15619
+https://is.gd/Q32YJ6??@iprtlk
+https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8?@iprtlk
+
+
+#EXTINF:-1 tvg-chno="" cuid="316" tvg-name="La 2 🇪🇸" tvg-id="La.2.es" tvg-logo="https://logo.m3uassets.com/la2.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Undefined 🌎",❖ La 2 🇪🇸
+https://is.gd/lj1NPx?@iprtlk
+https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8?@iprtlk
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15618
 
 #EXTINF:-1, tvg-name="FR: TVE1 "  ,FR: TVE1
 https://ztnr.rtve.es/ztnr/3293681.m3u8
@@ -161,6 +189,35 @@ https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 
 #EXTINF:0,ETB 2 (720p)
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+
+#EXTINF:-1 tvg-chno="3" cuid="4" tvg-name="RTP 1 🇵🇹" tvg-id="RTP.1.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-1-pt.png" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP1 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4" cuid="5" tvg-name="RTP 2 🇵🇹" tvg-id="RTP.2.HD.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/rtp-2-hd-pt.png" user-agent="Wink/1.31.1" group-logo="https://cdn-icons-png.freepik.com/512/4482/4482879.png" group-title="Portugal",❖ RTP 2 🇵🇹
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTVLCOPT:http-origin=https://www.rtp.pt
+#EXTVLCOPT:http-referrer=https://www.rtp.pt/play/direto/rtp2
+https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+https://streaming-live.rtp.pt/liverepeater/rtp2.smil/playlist.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="6" cuid="7" tvg-name="RTP 3 🇵🇹" tvg-id="RTP.3.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/rtpnoticias.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ RTP Noticias_ 🇵🇹
+#EXTVLCOPT:http-user-agent=IE
+https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8?@iprtlk
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?@iprtlk
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8?@iprtlk
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8?@iprtlk
+
+#EXTINF:-1 tvg-chno="7" cuid="8" tvg-name="RTP Noticias" tvg-id="RTP.3.HD.pt" user-agent="Wink/1.31.1" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/rtpnoticias.webp" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="News 🇵🇹🇧🇷",❖ RTP Noticias_ 🇵🇹
+#EXTVLCOPT:http-user-agent=IE
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=761e7af421a4386e82eaa861a49b3d73:f1eb56955a79e555b1f8b96aec3afa25
+http://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/manifest.mpd?@iprtlk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tvipt/py/rtp_3.m3u8
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -235,17 +292,15 @@ https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
 #EXTINF:-1 tvg-name="FR: RTL "  , Rtl
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 
-RTL HD
-
 #EXTINF:-1 tvg-name="FR: Zwei "  , Rtl2
 https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-
-RTL Zwei HD (1080p)
 
 #EXTINF:-1 tvg-name="FR: RTL SUPER "  , Rtl Super
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 
-RTL Super
+#EXTINF:-1 tvg-chno="" cuid="342" tvg-name="vox" tvg-id="VOX.de" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/vox-de.png" group-logo="https://cdn-icons-png.freepik.com/256/3687/3687668.png" group-title="Undefined 🌎",❖ VOX 🇩🇪
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd?@iprtlk
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
@@ -254,6 +309,10 @@ https://ec06-krk3.cache.orange.pl/dai4/org1/vb/104/tvp1hd/index.m3u8
 
 #EXTINF:0,TVP Polonia
 https://viamotionhsi.netplus.ch/live/eds/tvpolonia/browser-dash/tvpolonia.mpd
+
+#EXTINF:-1 tvg-chno="" cuid="150" tvg-name="" tvg-id="TVP.World.HD.pl" tvg-logo="https://logo.m3uassets.com/tvpworld.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ TVP World 🇬🇧
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/wld/tvpwd.m3u8?@iprtlk
+https://raw.githubusercontent.com/fraudiay79/strm/refs/heads/main/platforms/links/pl/tvpworld.m3u8?@iprtlk
 
 #EXTINF:0,Polsat (1080p) [Geo-blocked]
 https://lb2-e2-19.pluscdn.pl/ch/1502600/308/dash/20a18c30/live.mpd
@@ -326,6 +385,9 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 KUCOC TRT
 
+#EXTINF:-1 tvg-chno="" cuid="149" tvg-name="TRT World 🇬🇧" tvg-id="TRT.World.HD.uk" tvg-logo="https://i.ibb.co/nP9xpck/trtw.png" group-logo="https://cdn-icons-png.freepik.com/256/5395/5395694.png" group-title="World News 🌍",❖ TRT World 🇬🇧
+https://tv-trtworld.medya.trt.com.tr/master.m3u8?@iprtlk
+
 ************************************************************************************************************************************************************************************************************************************************************
 #EXTINF:0,AL24 News (1080p)
 https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
@@ -339,6 +401,7 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
