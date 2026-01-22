@@ -12,12 +12,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/mis
 #EXTINF:0, Sud Radio
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/sudradio.m3u8
 
-#EXTINF:0, RTL2
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
-
-#EXTINF:0, Fun Radio
-https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/funradiofr.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ByN83p3/funradtv.png" group-title="3. |FR|🇫🇷 MUSIQUE - JEUNESSE",FUN RADIO TV BE
 https://funradiovisionhd.vedge.infomaniak.com/livecast/ik:funradiovisionhd/manifest.m3u8
 
@@ -26,9 +20,6 @@ https://viamotionhsi.netplus.ch/live/eds/ab1/browser-HLS8/ab1.m3u8
 
 #EXTINF:-1 tvg-name="FR: CanalJ "  , Canal J
 https://viamotionhsi.netplus.ch/live/eds/canalj/browser-HLS8/canalj.m3u8
-
-#EXTINF:0,Planete+ (1080p)
-https://viamotionhsi.netplus.ch/live/eds/planeteplus/browser-HLS8/planeteplus.m3u8
 
 #EXTINF:-1 tvg-name="FR: 20 MINUTES TV "  , 20" TV
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
@@ -39,26 +30,13 @@ https://static.lefigaro.fr/secom/tnt.m3u8
 #EXTINF:-1 tvg-name="FR: TV5 iNFOS "  , TV5 Infos
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 
-#EXTINF:-1 tvg-chno="" cuid="430" tvg-id="Eurosport.1.ro" tvg-logo="https://raw.githubusercontent.com/iprtl/p1/master/logo/Eurosport1.png" group-logo="https://cdn-icons-png.freepik.com/512/1080/1080994.png" group-title="Desportos 🌎",❖ Eurosport 1 (🔊🇬🇧🇨🇿)🎱⛷🚴
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd?@iprtlk
-http://178.23.88.55/Eurosport_1/index.m3u8
-http://iptv.tvzatak.uk/HxnSbJgDPX/bhYQUR31B/seyJ1cmwiOiJodHRwOi8vN2FkMzhiZTAub3R0b2xvay5uZXQvaXB0di9ZNUdHVDNQV1hYTk05VkU5OThONEZFQUgvMjI4L2luZGV4Lm0zdTgiLCJpZCI6ODIwfQ%3D%3D/fast
+#EXTINF:-1 tvg-id="" tvg-name="UK: Eurosport 1 HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="✯UK✯ SPORTS",UK: Eurosport 1 HD
+http://filex.me:8080//live/Ghosia104/pathan104/495242.ts
 
 *************************************************************************************************************************************************************************************************************************************************************
 
 #EXTINF:-1 tvg-name=" RTBF1 " group-title="Belgique" , RTBF1
 http://41.205.93.154/LA-UNE/mpegts
-
-#EXTINF:-1 tvg-id="Tipik.be@SD" tvg-logo="https://i.imgur.com/LKLjnrp.png" group-title="Belgique",Télé 21
-http://103.184.64.85:12000/stream/allchannel/rtbftipik/master.m3u8
-
-#EXTINF:-1 tvg-id="LaTrois.be@SD" tvg-logo="https://i.imgur.com/jMs4h9F.png" group-title="Belgique",La Trois
-http://103.184.64.85:12000/stream/allchannel/rtbflatrois/master.m3u8
 
 #EXTINF:-1 tvg-name="FR: AB3 " group-title="Belgique" , AB3
 https://viamotionhsi.netplus.ch/live/eds/ab3/browser-HLS8/ab3.m3u8
@@ -116,8 +94,8 @@ https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
 
 ***********************************************************************************************************************************************************************************************************************************************************
 
-#EXTINF:-1 tvg-id="bbconelondon.uk" tvg-name="UK| BBC ONE LONDON SD" tvg-logo="https://lo1.in/uk/bbc1.png" group-title="EU | UK GENERAL ",UK| BBC ONE LONDON SD
-http://ypbmbfwd.mexamo.xyz:80/54RL5KJE/QVVXHK64/191095
+#EXTINF:-1 tvg-id="9201" tvg-name="UK: BBC ONE HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/784f2cc4e90f364b88658303186aac6f.png" group-title="✯UK✯ LIFESTYLE",UK: BBC ONE HD
+http://filex.me:8080//live/Ghosia104/pathan104/495483.ts
 
 #EXTINF:-1 tvg-name="FR: BBC2 "  ,FR: BBC2
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
@@ -401,6 +379,7 @@ https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.
 https://live-bshto1205.telewebion.com/ek/tv1/live/playlist.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
